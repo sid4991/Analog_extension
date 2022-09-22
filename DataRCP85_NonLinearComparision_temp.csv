@@ -1,0 +1,838 @@
+Target,Analog,Frequency,Set
+AL_Autauga,FL_Gilchrist,6,Temperature
+AL_Autauga,FL_Lafayette,6,Temperature
+AL_Autauga,FL_Hamilton,5,Temperature
+AL_Autauga,FL_Alachua,5,Temperature
+AL_Autauga,FL_Suwannee,5,Temperature
+AL_Baldwin,FL_Orange,8,Temperature
+AL_Baldwin,FL_Osceola,7,Temperature
+AL_Baldwin,FL_Lake,6,Temperature
+AL_Baldwin,FL_Indian River,6,Temperature
+AL_Barbour,FL_Gilchrist,10,Temperature
+AL_Barbour,FL_Alachua,6,Temperature
+AL_Barbour,TX_Frio,6,Temperature
+AL_Barbour,FL_Levy,5,Temperature
+AL_Bullock,FL_Gilchrist,8,Temperature
+AL_Bullock,FL_Lafayette,7,Temperature
+AL_Bullock,FL_Alachua,7,Temperature
+AL_Bullock,FL_Suwannee,5,Temperature
+AL_Chilton,FL_Suwannee,5,Temperature
+AL_Covington,FL_Gilchrist,9,Temperature
+AL_Covington,TX_Frio,7,Temperature
+AL_Covington,TX_Maverick,7,Temperature
+AL_Covington,FL_Alachua,6,Temperature
+AL_Covington,FL_Lafayette,5,Temperature
+AL_Covington,FL_Suwannee,5,Temperature
+AL_Covington,TX_Zavala,5,Temperature
+AL_Geneva,TX_Maverick,8,Temperature
+AL_Geneva,TX_Frio,7,Temperature
+AL_Geneva,TX_Zavala,6,Temperature
+AL_Geneva,FL_Alachua,5,Temperature
+AL_Geneva,FL_Suwannee,5,Temperature
+AL_Houston,FL_Levy,6,Temperature
+AL_Houston,FL_Alachua,6,Temperature
+AL_Houston,TX_Frio,6,Temperature
+AL_Houston,TX_Maverick,5,Temperature
+AL_Houston,TX_Zavala,5,Temperature
+AL_Houston,TX_Atascosa,5,Temperature
+AL_Mobile,FL_Hernando,6,Temperature
+AL_Mobile,TX_Atascosa,5,Temperature
+AL_Mobile,FL_Pasco,5,Temperature
+AL_Pike,FL_Alachua,6,Temperature
+AL_Pike,TX_Frio,6,Temperature
+AL_Pike,FL_Levy,6,Temperature
+AL_Pike,FL_Gilchrist,5,Temperature
+AL_Pike,TX_Zavala,5,Temperature
+AR_Bradley,FL_Gilchrist,8,Temperature
+AR_Bradley,FL_Lafayette,8,Temperature
+AR_Bradley,FL_Alachua,7,Temperature
+AR_Bradley,FL_Suwannee,6,Temperature
+AR_Chicot,FL_Levy,7,Temperature
+AR_Chicot,FL_Alachua,6,Temperature
+AR_Chicot,TX_Uvalde,6,Temperature
+AR_Chicot,TX_Frio,5,Temperature
+AR_Conway,GA_Clinch,6,Temperature
+AR_Conway,GA_Lowndes,6,Temperature
+AR_Conway,GA_Echols,5,Temperature
+AR_Little River,FL_Gilchrist,9,Temperature
+AR_Little River,FL_Alachua,7,Temperature
+AR_Little River,FL_Suwannee,7,Temperature
+AR_Little River,FL_Lafayette,7,Temperature
+AR_Miller,FL_Levy,6,Temperature
+AZ_Cochise,AZ_Pinal,9,Temperature
+AZ_Graham,TX_Midland,9,Temperature
+AZ_Graham,TX_El Paso,5,Temperature
+AZ_Maricopa,AZ_Yuma,17,Temperature
+AZ_Maricopa,CA_Imperial,17,Temperature
+AZ_Maricopa,AZ_Maricopa,17,Temperature
+AZ_Maricopa,AZ_Pinal,14,Temperature
+AZ_Pinal,AZ_Yuma,17,Temperature
+AZ_Pinal,AZ_Maricopa,17,Temperature
+AZ_Pinal,CA_Imperial,17,Temperature
+AZ_Pinal,AZ_Pinal,17,Temperature
+AZ_Yuma,AZ_Yuma,17,Temperature
+AZ_Yuma,CA_Imperial,17,Temperature
+AZ_Yuma,AZ_Maricopa,16,Temperature
+AZ_Yuma,AZ_Pinal,10,Temperature
+CA_Butte,MS_Greene,7,Temperature
+CA_Imperial,CA_Imperial,17,Temperature
+CA_Imperial,AZ_Yuma,17,Temperature
+CA_Imperial,AZ_Maricopa,7,Temperature
+CA_Marin,AR_Phillips,8,Temperature
+CA_Marin,AR_Jefferson,5,Temperature
+CA_Orange,AL_Baldwin,11,Temperature
+CA_Orange,SC_Beaufort,5,Temperature
+CA_Riverside,AZ_Maricopa,15,Temperature
+CA_Riverside,AZ_Pinal,13,Temperature
+CA_Riverside,AZ_Yuma,8,Temperature
+CA_Riverside,CA_Imperial,8,Temperature
+CA_San Bernardino,CA_Imperial,9,Temperature
+CA_San Bernardino,AZ_Yuma,9,Temperature
+CA_San Bernardino,AZ_Maricopa,9,Temperature
+CA_San Joaquin,AL_Covington,6,Temperature
+CA_San Luis Obispo,TX_El Paso,7,Temperature
+CA_San Luis Obispo,TX_Gaines,6,Temperature
+CA_San Mateo,VA_Accomack,15,Temperature
+CO_Costilla,CO_Weld,5,Temperature
+CO_Otero,NM_Luna,13,Temperature
+CO_Otero,NM_Otero,9,Temperature
+CO_Otero,NM_Chaves,6,Temperature
+CO_Pueblo,NM_Roosevelt,6,Temperature
+CT_New Haven,DE_Kent,6,Temperature
+CT_New Haven,NJ_Salem,5,Temperature
+DE_Kent,NC_Pasquotank,6,Temperature
+DE_Sussex,NC_Pasquotank,6,Temperature
+DE_Sussex,NC_Perquimans,5,Temperature
+FL_Brevard,TX_Cameron,16,Temperature
+FL_Brevard,FL_Lee,16,Temperature
+FL_Brevard,TX_Willacy,16,Temperature
+FL_Brevard,TX_Hidalgo,12,Temperature
+FL_Brevard,FL_Martin,6,Temperature
+FL_Charlotte,TX_Hidalgo,15,Temperature
+FL_Charlotte,FL_Collier,5,Temperature
+FL_Collier,TX_Hidalgo,15,Temperature
+FL_Columbia,TX_Maverick,7,Temperature
+FL_Escambia,TX_Maverick,8,Temperature
+FL_Escambia,TX_Frio,7,Temperature
+FL_Escambia,TX_Zavala,6,Temperature
+FL_Escambia,TX_Atascosa,6,Temperature
+FL_Escambia,FL_Alachua,5,Temperature
+FL_Gadsden,TX_Maverick,9,Temperature
+FL_Gadsden,TX_Zavala,6,Temperature
+FL_Gadsden,TX_Frio,5,Temperature
+FL_Hamilton,TX_Maverick,7,Temperature
+FL_Hamilton,TX_Frio,7,Temperature
+FL_Hamilton,TX_Zavala,5,Temperature
+FL_Hardee,TX_Hidalgo,14,Temperature
+FL_Hardee,FL_Collier,14,Temperature
+FL_Hendry,TX_Hidalgo,15,Temperature
+FL_Hernando,FL_Collier,16,Temperature
+FL_Hernando,TX_Hidalgo,12,Temperature
+FL_Highlands,TX_Hidalgo,15,Temperature
+FL_Highlands,FL_Collier,8,Temperature
+FL_Hillsborough,TX_Hidalgo,16,Temperature
+FL_Hillsborough,FL_Collier,8,Temperature
+FL_Indian River,TX_Hidalgo,16,Temperature
+FL_Indian River,TX_Cameron,5,Temperature
+FL_Jackson,TX_Maverick,10,Temperature
+FL_Jackson,TX_Zavala,6,Temperature
+FL_Jackson,TX_Frio,5,Temperature
+FL_Jackson,TX_Atascosa,5,Temperature
+FL_Jefferson,TX_Zavala,7,Temperature
+FL_Jefferson,TX_Frio,7,Temperature
+FL_Jefferson,TX_Maverick,6,Temperature
+FL_Jefferson,TX_Atascosa,6,Temperature
+FL_Lafayette,TX_Maverick,7,Temperature
+FL_Lake,TX_Hidalgo,15,Temperature
+FL_Lake,FL_Collier,9,Temperature
+FL_Lee,TX_Hidalgo,15,Temperature
+FL_Lee,TX_Cameron,15,Temperature
+FL_Lee,FL_Lee,13,Temperature
+FL_Lee,TX_Willacy,11,Temperature
+FL_Manatee,TX_Hidalgo,15,Temperature
+FL_Manatee,FL_Collier,7,Temperature
+FL_Marion,FL_Collier,8,Temperature
+FL_Marion,FL_Hendry,6,Temperature
+FL_Marion,TX_Hidalgo,6,Temperature
+FL_Martin,TX_Hidalgo,15,Temperature
+FL_Martin,TX_Cameron,15,Temperature
+FL_Martin,FL_Lee,12,Temperature
+FL_Martin,TX_Willacy,9,Temperature
+FL_Okeechobee,TX_Hidalgo,15,Temperature
+FL_Okeechobee,TX_Cameron,8,Temperature
+FL_Orange,TX_Hidalgo,15,Temperature
+FL_Orange,TX_Cameron,9,Temperature
+FL_Orange,FL_Lee,8,Temperature
+FL_Orange,TX_Willacy,7,Temperature
+FL_Osceola,TX_Hidalgo,16,Temperature
+FL_Osceola,FL_Collier,7,Temperature
+FL_Palm Beach,TX_Hidalgo,15,Temperature
+FL_Palm Beach,TX_Cameron,15,Temperature
+FL_Palm Beach,FL_Lee,7,Temperature
+FL_Pasco,TX_Hidalgo,15,Temperature
+FL_Pasco,FL_Collier,14,Temperature
+FL_Polk,TX_Hidalgo,16,Temperature
+FL_Putnam,FL_Hendry,5,Temperature
+FL_Putnam,FL_Collier,5,Temperature
+FL_Sarasota,TX_Hidalgo,15,Temperature
+FL_Sarasota,FL_Collier,9,Temperature
+FL_Seminole,FL_Lee,12,Temperature
+FL_Seminole,TX_Hidalgo,10,Temperature
+FL_Seminole,TX_Willacy,10,Temperature
+FL_Seminole,TX_Cameron,10,Temperature
+FL_Seminole,FL_Palm Beach,6,Temperature
+FL_Suwannee,TX_Maverick,6,Temperature
+FL_Volusia,FL_Lee,13,Temperature
+FL_Volusia,TX_Willacy,13,Temperature
+FL_Volusia,TX_Cameron,11,Temperature
+FL_Volusia,FL_Palm Beach,8,Temperature
+FL_Volusia,TX_Hidalgo,7,Temperature
+FL_Volusia,FL_Martin,6,Temperature
+FL_Walton,TX_Frio,9,Temperature
+FL_Walton,TX_Maverick,7,Temperature
+FL_Walton,FL_Levy,6,Temperature
+FL_Walton,FL_Alachua,5,Temperature
+FL_Walton,TX_Atascosa,5,Temperature
+FL_Walton,FL_Gilchrist,5,Temperature
+GA_Appling,TX_Frio,8,Temperature
+GA_Appling,TX_Zavala,7,Temperature
+GA_Appling,TX_Maverick,7,Temperature
+GA_Appling,FL_Levy,6,Temperature
+GA_Appling,TX_Atascosa,5,Temperature
+GA_Appling,FL_Alachua,5,Temperature
+GA_Atkinson,TX_Maverick,9,Temperature
+GA_Atkinson,TX_Frio,7,Temperature
+GA_Bacon,TX_Zavala,8,Temperature
+GA_Bacon,TX_Maverick,7,Temperature
+GA_Bacon,TX_Atascosa,6,Temperature
+GA_Bacon,TX_Frio,6,Temperature
+GA_Bacon,FL_Levy,5,Temperature
+GA_Ben Hill,TX_Frio,10,Temperature
+GA_Ben Hill,TX_Maverick,8,Temperature
+GA_Ben Hill,FL_Gilchrist,6,Temperature
+GA_Ben Hill,FL_Alachua,6,Temperature
+GA_Berrien,TX_Maverick,9,Temperature
+GA_Berrien,TX_Frio,7,Temperature
+GA_Berrien,FL_Gilchrist,5,Temperature
+GA_Berrien,TX_Zavala,5,Temperature
+GA_Brooks,TX_Maverick,9,Temperature
+GA_Brooks,TX_Frio,7,Temperature
+GA_Brooks,TX_Zavala,7,Temperature
+GA_Bulloch,FL_Marion,6,Temperature
+GA_Bulloch,TX_Atascosa,6,Temperature
+GA_Bulloch,TX_Maverick,6,Temperature
+GA_Bulloch,TX_Zavala,5,Temperature
+GA_Bulloch,TX_Frio,5,Temperature
+GA_Burke,FL_Suwannee,8,Temperature
+GA_Burke,FL_Lafayette,7,Temperature
+GA_Burke,FL_Alachua,7,Temperature
+GA_Burke,FL_Gilchrist,6,Temperature
+GA_Candler,TX_Frio,9,Temperature
+GA_Candler,TX_Maverick,7,Temperature
+GA_Candler,TX_Atascosa,5,Temperature
+GA_Candler,TX_Zavala,5,Temperature
+GA_Candler,FL_Alachua,5,Temperature
+GA_Candler,TX_Uvalde,5,Temperature
+GA_Clinch,TX_Maverick,8,Temperature
+GA_Clinch,TX_Frio,7,Temperature
+GA_Clinch,TX_Zavala,5,Temperature
+GA_Colquitt,TX_Maverick,9,Temperature
+GA_Colquitt,TX_Zavala,8,Temperature
+GA_Colquitt,TX_Atascosa,5,Temperature
+GA_Cook,TX_Maverick,10,Temperature
+GA_Cook,TX_Frio,7,Temperature
+GA_Cook,TX_Zavala,6,Temperature
+GA_Cook,TX_Atascosa,5,Temperature
+GA_Crisp,TX_Frio,10,Temperature
+GA_Crisp,TX_Maverick,7,Temperature
+GA_Crisp,TX_Zavala,7,Temperature
+GA_Crisp,FL_Alachua,5,Temperature
+GA_Decatur,TX_Maverick,7,Temperature
+GA_Decatur,TX_Zavala,6,Temperature
+GA_Decatur,TX_Frio,5,Temperature
+GA_Echols,TX_Maverick,9,Temperature
+GA_Echols,TX_Frio,7,Temperature
+GA_Echols,TX_Zavala,5,Temperature
+GA_Evans,TX_Frio,7,Temperature
+GA_Evans,TX_Zavala,6,Temperature
+GA_Evans,TX_Maverick,6,Temperature
+GA_Evans,FL_Levy,5,Temperature
+GA_Grady,TX_Maverick,8,Temperature
+GA_Grady,TX_Zavala,5,Temperature
+GA_Grady,TX_Frio,5,Temperature
+GA_Grady,TX_Atascosa,5,Temperature
+GA_Houston,FL_Gilchrist,11,Temperature
+GA_Houston,FL_Levy,8,Temperature
+GA_Houston,FL_Alachua,7,Temperature
+GA_Houston,TX_Frio,6,Temperature
+GA_Houston,FL_Suwannee,5,Temperature
+GA_Jefferson,FL_Suwannee,8,Temperature
+GA_Jefferson,FL_Lafayette,6,Temperature
+GA_Jefferson,FL_Gilchrist,5,Temperature
+GA_Jefferson,FL_Hamilton,5,Temperature
+GA_Jefferson,FL_Alachua,5,Temperature
+GA_Lanier,TX_Maverick,9,Temperature
+GA_Lanier,TX_Frio,7,Temperature
+GA_Lee,TX_Frio,8,Temperature
+GA_Lee,TX_Maverick,7,Temperature
+GA_Lee,TX_Zavala,6,Temperature
+GA_Lee,FL_Alachua,5,Temperature
+GA_Lee,FL_Suwannee,5,Temperature
+GA_Lee,FL_Levy,5,Temperature
+GA_Lowndes,TX_Maverick,8,Temperature
+GA_Lowndes,TX_Frio,6,Temperature
+GA_Lowndes,TX_Zavala,6,Temperature
+GA_Mitchell,TX_Maverick,9,Temperature
+GA_Mitchell,TX_Zavala,7,Temperature
+GA_Mitchell,TX_Frio,5,Temperature
+GA_Montgomery,TX_Frio,7,Temperature
+GA_Montgomery,TX_Zavala,7,Temperature
+GA_Montgomery,FL_Levy,5,Temperature
+GA_Montgomery,TX_Maverick,5,Temperature
+GA_Pierce,TX_Maverick,10,Temperature
+GA_Pierce,TX_Frio,8,Temperature
+GA_Pierce,TX_Zavala,7,Temperature
+GA_Pierce,FL_Alachua,5,Temperature
+GA_Pierce,TX_Atascosa,5,Temperature
+GA_Pulaski,FL_Alachua,7,Temperature
+GA_Pulaski,TX_Frio,6,Temperature
+GA_Pulaski,FL_Gilchrist,6,Temperature
+GA_Pulaski,FL_Suwannee,6,Temperature
+GA_Pulaski,TX_Zavala,6,Temperature
+GA_Pulaski,FL_Lafayette,5,Temperature
+GA_Pulaski,TX_Maverick,5,Temperature
+GA_Screven,FL_Alachua,9,Temperature
+GA_Screven,FL_Suwannee,6,Temperature
+GA_Screven,FL_Gilchrist,6,Temperature
+GA_Screven,TX_Frio,5,Temperature
+GA_Screven,FL_Levy,5,Temperature
+GA_Screven,TX_Zavala,5,Temperature
+GA_Seminole,TX_Maverick,7,Temperature
+GA_Seminole,TX_Frio,5,Temperature
+GA_Seminole,TX_Zavala,5,Temperature
+GA_Seminole,TX_Atascosa,5,Temperature
+GA_Sumter,FL_Alachua,10,Temperature
+GA_Sumter,TX_Frio,7,Temperature
+GA_Sumter,FL_Gilchrist,6,Temperature
+GA_Sumter,FL_Levy,5,Temperature
+GA_Sumter,FL_Suwannee,5,Temperature
+GA_Sumter,TX_Atascosa,5,Temperature
+GA_Sumter,TX_Zavala,5,Temperature
+GA_Tattnall,TX_Maverick,7,Temperature
+GA_Tattnall,FL_Levy,6,Temperature
+GA_Tattnall,TX_Atascosa,6,Temperature
+GA_Tattnall,TX_Frio,6,Temperature
+GA_Tattnall,FL_Alachua,5,Temperature
+GA_Tattnall,TX_Zavala,5,Temperature
+GA_Thomas,TX_Zavala,7,Temperature
+GA_Thomas,TX_Maverick,6,Temperature
+GA_Thomas,TX_Frio,6,Temperature
+GA_Thomas,TX_Atascosa,5,Temperature
+GA_Tift,TX_Zavala,5,Temperature
+GA_Toombs,TX_Frio,9,Temperature
+GA_Toombs,TX_Zavala,7,Temperature
+GA_Toombs,TX_Maverick,7,Temperature
+GA_Toombs,FL_Levy,6,Temperature
+GA_Toombs,FL_Alachua,5,Temperature
+GA_Turner,TX_Zavala,6,Temperature
+GA_Turner,TX_Atascosa,6,Temperature
+GA_Turner,TX_Maverick,6,Temperature
+GA_Turner,TX_Frio,5,Temperature
+GA_Upson,FL_Lafayette,6,Temperature
+GA_Upson,GA_Clinch,5,Temperature
+GA_Upson,FL_Hamilton,5,Temperature
+GA_Ware,TX_Frio,7,Temperature
+GA_Ware,TX_Maverick,7,Temperature
+GA_Ware,TX_Zavala,6,Temperature
+GA_Ware,TX_Atascosa,6,Temperature
+GA_Warren,GA_Lowndes,5,Temperature
+GA_Washington,FL_Lafayette,5,Temperature
+GA_Washington,FL_Suwannee,5,Temperature
+GA_Washington,FL_Alachua,5,Temperature
+GA_Wayne,TX_Maverick,11,Temperature
+GA_Wayne,TX_Frio,8,Temperature
+GA_Wayne,TX_Zavala,7,Temperature
+GA_Wayne,TX_Atascosa,7,Temperature
+GA_Wilcox,TX_Frio,8,Temperature
+GA_Wilcox,TX_Maverick,7,Temperature
+GA_Wilcox,FL_Suwannee,6,Temperature
+GA_Wilcox,TX_Zavala,6,Temperature
+GA_Wilcox,FL_Gilchrist,5,Temperature
+GA_Wilcox,FL_Alachua,5,Temperature
+GA_Wilcox,TX_Atascosa,5,Temperature
+GA_Worth,TX_Maverick,6,Temperature
+GA_Worth,TX_Atascosa,6,Temperature
+GA_Worth,TX_Zavala,5,Temperature
+GA_Worth,TX_Uvalde,5,Temperature
+GA_Worth,TX_Frio,5,Temperature
+IL_Cook,VA_Westmoreland,5,Temperature
+KS_Grant,NM_Eddy,7,Temperature
+KS_Grant,TX_Terry,6,Temperature
+KS_Grant,NM_Dona Ana,5,Temperature
+KS_Grant,TX_Yoakum,5,Temperature
+MA_Bristol,CA_San Mateo,16,Temperature
+MA_Bristol,VA_Accomack,14,Temperature
+MA_Bristol,NJ_Gloucester,5,Temperature
+MD_Caroline,NC_Perquimans,6,Temperature
+MD_Caroline,NC_Pasquotank,6,Temperature
+MD_Worcester,NC_Hyde,7,Temperature
+MD_Worcester,CA_Orange,7,Temperature
+ME_Aroostook,NY_Wayne,5,Temperature
+ME_Aroostook,NY_Monroe,5,Temperature
+ME_Cumberland,PA_Lancaster,5,Temperature
+MI_Benzie,OR_Curry,6,Temperature
+MI_Benzie,OR_Marion,5,Temperature
+MI_Benzie,OR_Yamhill,5,Temperature
+MI_Berrien,NJ_Salem,5,Temperature
+MI_Genesee,DE_Kent,6,Temperature
+MI_Lapeer,DE_Kent,5,Temperature
+MI_Leelanau,OR_Marion,5,Temperature
+MI_Leelanau,OR_Multnomah,5,Temperature
+MI_Leelanau,OR_Curry,5,Temperature
+MI_Livingston,DE_Kent,7,Temperature
+MI_Livingston,NJ_Salem,5,Temperature
+MI_Macomb,NJ_Salem,5,Temperature
+MI_Macomb,DE_Kent,5,Temperature
+MI_Mason,OR_Linn,5,Temperature
+MI_Mason,OR_Coos,5,Temperature
+MI_Mason,NJ_Salem,5,Temperature
+MI_Tuscola,DE_Kent,5,Temperature
+MI_Van Buren,DE_Kent,5,Temperature
+MS_Calhoun,GA_Lowndes,5,Temperature
+MS_Chickasaw,GA_Clinch,6,Temperature
+MS_Chickasaw,GA_Lowndes,5,Temperature
+MS_Greene,TX_Frio,9,Temperature
+MS_Greene,FL_Gilchrist,8,Temperature
+MS_Greene,TX_Maverick,7,Temperature
+MS_Greene,FL_Alachua,6,Temperature
+MS_Greene,FL_Lafayette,5,Temperature
+MS_Lamar,TX_Maverick,8,Temperature
+MS_Lamar,TX_Frio,7,Temperature
+MS_Lamar,TX_Zavala,6,Temperature
+MS_Lamar,TX_Atascosa,6,Temperature
+MS_Lamar,FL_Alachua,5,Temperature
+MS_Lamar,FL_Gilchrist,5,Temperature
+MS_Wayne,FL_Gilchrist,10,Temperature
+MS_Wayne,TX_Frio,8,Temperature
+MS_Wayne,FL_Alachua,7,Temperature
+MS_Wayne,FL_Lafayette,5,Temperature
+MS_Wayne,TX_Maverick,5,Temperature
+MS_Webster,FL_Gilchrist,5,Temperature
+MS_Webster,GA_Lowndes,5,Temperature
+MS_Yalobusha,GA_Clinch,7,Temperature
+MS_Yalobusha,GA_Lowndes,5,Temperature
+NC_Chowan,AL_Mobile,8,Temperature
+NC_Chowan,TX_Collin,5,Temperature
+NC_Hyde,AL_Baldwin,14,Temperature
+NC_Hyde,SC_Beaufort,9,Temperature
+NC_Pasquotank,AL_Mobile,5,Temperature
+NC_Pasquotank,TX_Grayson,5,Temperature
+NC_Perquimans,AL_Mobile,7,Temperature
+NC_Washington,GA_Tift,5,Temperature
+NJ_Mercer,CA_Marin,5,Temperature
+NJ_Monmouth,CA_Marin,8,Temperature
+NJ_Monmouth,VA_Westmoreland,5,Temperature
+NJ_Salem,NC_Pasquotank,6,Temperature
+NM_Chaves,TX_Midland,8,Temperature
+NM_Chaves,TX_El Paso,7,Temperature
+NM_Dona Ana,AZ_Pinal,7,Temperature
+NM_Eddy,AZ_Pinal,8,Temperature
+NM_Lea,TX_El Paso,6,Temperature
+NM_Lea,TX_Midland,5,Temperature
+NM_Luna,AZ_Pinal,5,Temperature
+NM_Otero,AZ_Pinal,6,Temperature
+NM_Otero,TX_El Paso,5,Temperature
+NM_Roosevelt,TX_El Paso,11,Temperature
+NM_Roosevelt,TX_Hudspeth,5,Temperature
+NM_Roosevelt,AZ_Cochise,5,Temperature
+NM_San Juan,NM_Chaves,10,Temperature
+NM_San Juan,NM_Luna,7,Temperature
+NM_San Juan,NM_Lea,6,Temperature
+NM_Sierra,TX_El Paso,8,Temperature
+NM_Sierra,TX_Midland,5,Temperature
+NM_Valencia,TX_Hudspeth,13,Temperature
+NM_Valencia,AZ_Cochise,13,Temperature
+NM_Valencia,NM_Otero,9,Temperature
+NM_Valencia,NM_Luna,9,Temperature
+NM_Valencia,NM_Eddy,7,Temperature
+NV_Lyon,NM_Valencia,8,Temperature
+NY_Cayuga,OR_Curry,7,Temperature
+NY_Cayuga,NJ_Gloucester,5,Temperature
+NY_Chautauqua,NJ_Salem,5,Temperature
+NY_Chautauqua,DE_Kent,5,Temperature
+NY_Clinton,OR_Multnomah,6,Temperature
+NY_Clinton,OR_Curry,5,Temperature
+NY_Clinton,OR_Coos,5,Temperature
+NY_Erie,OR_Curry,6,Temperature
+NY_Erie,DE_Kent,6,Temperature
+NY_Genesee,DE_Kent,6,Temperature
+NY_Genesee,NJ_Salem,5,Temperature
+NY_Monroe,NJ_Gloucester,8,Temperature
+NY_Monroe,OR_Multnomah,6,Temperature
+NY_Monroe,CA_San Mateo,6,Temperature
+NY_Monroe,OR_Curry,5,Temperature
+NY_Monroe,NJ_Salem,5,Temperature
+NY_Niagara,NJ_Gloucester,9,Temperature
+NY_Niagara,CA_San Mateo,8,Temperature
+NY_Niagara,OR_Multnomah,6,Temperature
+NY_Niagara,OR_Clackamas,6,Temperature
+NY_Niagara,OR_Curry,5,Temperature
+NY_Niagara,OR_Marion,5,Temperature
+NY_Onondaga,OR_Curry,6,Temperature
+NY_Ontario,OR_Curry,7,Temperature
+NY_Ontario,NJ_Gloucester,5,Temperature
+NY_Orleans,NJ_Gloucester,9,Temperature
+NY_Orleans,OR_Multnomah,5,Temperature
+NY_Orleans,OR_Curry,5,Temperature
+NY_Orleans,CA_San Mateo,5,Temperature
+NY_Oswego,DE_Kent,5,Temperature
+NY_Seneca,OR_Curry,5,Temperature
+NY_Seneca,NJ_Gloucester,5,Temperature
+NY_Seneca,NJ_Salem,5,Temperature
+NY_Seneca,OR_Multnomah,5,Temperature
+NY_Tompkins,OR_Curry,7,Temperature
+NY_Wayne,NJ_Gloucester,7,Temperature
+NY_Wayne,OR_Curry,6,Temperature
+NY_Wayne,OR_Multnomah,6,Temperature
+NY_Wayne,CA_San Mateo,6,Temperature
+OH_Ashtabula,DE_Kent,5,Temperature
+OH_Erie,CA_San Mateo,13,Temperature
+OH_Erie,VA_Accomack,10,Temperature
+OH_Erie,NJ_Gloucester,10,Temperature
+OH_Hancock,MD_Worcester,5,Temperature
+OH_Hancock,VA_Westmoreland,5,Temperature
+OH_Huron,NJ_Salem,5,Temperature
+OH_Ottawa,NJ_Gloucester,6,Temperature
+OH_Ottawa,VA_Accomack,5,Temperature
+OH_Ottawa,CA_San Mateo,5,Temperature
+OH_Putnam,CA_Santa Clara,5,Temperature
+OK_Choctaw,FL_Suwannee,6,Temperature
+OK_Choctaw,FL_Alachua,6,Temperature
+OK_Garvin,FL_Hamilton,5,Temperature
+OK_Jefferson,FL_Alachua,8,Temperature
+OK_Jefferson,FL_Suwannee,7,Temperature
+OK_Jefferson,FL_Gilchrist,6,Temperature
+OK_Jefferson,FL_Levy,5,Temperature
+OR_Benton,NJ_Gloucester,8,Temperature
+OR_Benton,DE_Kent,7,Temperature
+OR_Clackamas,NJ_Gloucester,13,Temperature
+OR_Clackamas,CA_San Mateo,11,Temperature
+OR_Coos,NJ_Gloucester,12,Temperature
+OR_Coos,DE_Kent,7,Temperature
+OR_Coos,NJ_Salem,6,Temperature
+OR_Curry,NJ_Gloucester,7,Temperature
+OR_Curry,NJ_Salem,6,Temperature
+OR_Douglas,IL_Madison,6,Temperature
+OR_Douglas,DE_Sussex,6,Temperature
+OR_Klamath,CO_Mesa,5,Temperature
+OR_Lane,NJ_Gloucester,8,Temperature
+OR_Lane,DE_Kent,7,Temperature
+OR_Linn,NJ_Gloucester,7,Temperature
+OR_Linn,DE_Kent,7,Temperature
+OR_Linn,NJ_Salem,6,Temperature
+OR_Marion,NJ_Gloucester,14,Temperature
+OR_Marion,CA_San Mateo,11,Temperature
+OR_Marion,NJ_Salem,5,Temperature
+OR_Multnomah,CA_San Mateo,10,Temperature
+OR_Multnomah,NJ_Gloucester,9,Temperature
+OR_Polk,DE_Kent,7,Temperature
+OR_Polk,NJ_Gloucester,6,Temperature
+OR_Polk,NJ_Salem,5,Temperature
+OR_Washington,NJ_Gloucester,12,Temperature
+OR_Washington,CA_San Mateo,11,Temperature
+OR_Washington,DE_Kent,6,Temperature
+OR_Washington,NJ_Salem,5,Temperature
+OR_Yamhill,NJ_Gloucester,11,Temperature
+OR_Yamhill,CA_San Mateo,7,Temperature
+OR_Yamhill,NJ_Salem,7,Temperature
+OR_Yamhill,DE_Kent,7,Temperature
+PA_Chester,CA_Marin,5,Temperature
+PA_Erie,DE_Kent,7,Temperature
+PA_Erie,NJ_Salem,7,Temperature
+PA_Erie,NJ_Gloucester,6,Temperature
+PA_Lancaster,VA_Westmoreland,5,Temperature
+PA_Lancaster,CA_Marin,5,Temperature
+PA_York,CA_Alameda,5,Temperature
+RI_Newport,CA_San Mateo,16,Temperature
+RI_Newport,VA_Accomack,14,Temperature
+RI_Newport,NJ_Gloucester,8,Temperature
+SC_Aiken,GA_Lowndes,6,Temperature
+SC_Aiken,FL_Gilchrist,5,Temperature
+SC_Aiken,GA_Clinch,5,Temperature
+SC_Bamberg,FL_Suwannee,7,Temperature
+SC_Bamberg,FL_Alachua,6,Temperature
+SC_Bamberg,FL_Lafayette,5,Temperature
+SC_Bamberg,TX_Uvalde,5,Temperature
+SC_Barnwell,FL_Gilchrist,9,Temperature
+SC_Barnwell,FL_Lafayette,8,Temperature
+SC_Barnwell,FL_Alachua,8,Temperature
+SC_Barnwell,FL_Suwannee,8,Temperature
+SC_Beaufort,FL_Volusia,10,Temperature
+SC_Beaufort,FL_Seminole,8,Temperature
+SC_Clarendon,FL_Gilchrist,8,Temperature
+SC_Clarendon,FL_Lafayette,7,Temperature
+SC_Clarendon,FL_Alachua,6,Temperature
+SC_Clarendon,FL_Suwannee,6,Temperature
+SC_Lexington,GA_Lowndes,6,Temperature
+SC_Lexington,GA_Clinch,5,Temperature
+SC_Lexington,FL_Hamilton,5,Temperature
+SC_Orangeburg,FL_Suwannee,8,Temperature
+SC_Orangeburg,FL_Alachua,6,Temperature
+SC_Orangeburg,FL_Levy,5,Temperature
+SC_Orangeburg,FL_Gilchrist,5,Temperature
+SC_Sumter,GA_Clinch,5,Temperature
+SC_Sumter,FL_Gilchrist,5,Temperature
+SC_Williamsburg,FL_Gilchrist,7,Temperature
+SC_Williamsburg,FL_Lafayette,6,Temperature
+SC_Williamsburg,FL_Suwannee,6,Temperature
+SC_Williamsburg,GA_Clinch,5,Temperature
+SC_Williamsburg,FL_Alachua,5,Temperature
+TX_Atascosa,TX_Hidalgo,12,Temperature
+TX_Atascosa,FL_Collier,9,Temperature
+TX_Austin,TX_Hidalgo,10,Temperature
+TX_Austin,FL_Collier,5,Temperature
+TX_Bastrop,FL_Collier,7,Temperature
+TX_Bastrop,TX_Hidalgo,6,Temperature
+TX_Bexar,TX_Hidalgo,9,Temperature
+TX_Bexar,FL_Collier,6,Temperature
+TX_Bexar,FL_Hendry,5,Temperature
+TX_Bosque,FL_Levy,6,Temperature
+TX_Bosque,FL_Alachua,5,Temperature
+TX_Bowie,FL_Levy,7,Temperature
+TX_Brazoria,TX_Willacy,13,Temperature
+TX_Brazoria,FL_Lee,12,Temperature
+TX_Brazoria,TX_Cameron,11,Temperature
+TX_Brazoria,TX_Hidalgo,7,Temperature
+TX_Brazoria,FL_Martin,6,Temperature
+TX_Brazos,FL_Collier,8,Temperature
+TX_Brazos,FL_Hendry,5,Temperature
+TX_Brown,FL_Gilchrist,9,Temperature
+TX_Brown,TX_Frio,9,Temperature
+TX_Brown,FL_Lafayette,6,Temperature
+TX_Brown,FL_Suwannee,6,Temperature
+TX_Brown,FL_Alachua,6,Temperature
+TX_Brown,TX_Maverick,5,Temperature
+TX_Burleson,FL_Collier,8,Temperature
+TX_Caldwell,FL_Collier,8,Temperature
+TX_Caldwell,TX_Hidalgo,6,Temperature
+TX_Clay,FL_Gilchrist,10,Temperature
+TX_Clay,FL_Alachua,8,Temperature
+TX_Clay,FL_Lafayette,6,Temperature
+TX_Clay,FL_Suwannee,6,Temperature
+TX_Colorado,FL_Collier,10,Temperature
+TX_Colorado,TX_Hidalgo,8,Temperature
+TX_Comanche,FL_Gilchrist,9,Temperature
+TX_Comanche,TX_Frio,8,Temperature
+TX_Comanche,FL_Alachua,8,Temperature
+TX_Comanche,FL_Suwannee,7,Temperature
+TX_Comanche,FL_Lafayette,6,Temperature
+TX_Comanche,TX_Maverick,6,Temperature
+TX_Comanche,TX_Zavala,5,Temperature
+TX_Coryell,TX_Atascosa,5,Temperature
+TX_Coryell,TX_Maverick,5,Temperature
+TX_Eastland,FL_Gilchrist,9,Temperature
+TX_Eastland,TX_Frio,9,Temperature
+TX_Eastland,FL_Lafayette,7,Temperature
+TX_Eastland,FL_Alachua,7,Temperature
+TX_Eastland,TX_Maverick,6,Temperature
+TX_El Paso,AZ_Pinal,14,Temperature
+TX_El Paso,AZ_Maricopa,11,Temperature
+TX_El Paso,AZ_Yuma,5,Temperature
+TX_Erath,FL_Gilchrist,8,Temperature
+TX_Erath,TX_Frio,7,Temperature
+TX_Erath,FL_Alachua,7,Temperature
+TX_Erath,FL_Lafayette,6,Temperature
+TX_Erath,FL_Suwannee,6,Temperature
+TX_Erath,TX_Zavala,6,Temperature
+TX_Erath,TX_Maverick,5,Temperature
+TX_Fayette,TX_Hidalgo,8,Temperature
+TX_Fayette,FL_Collier,7,Temperature
+TX_Fayette,FL_Charlotte,5,Temperature
+TX_Fort Bend,TX_Hidalgo,10,Temperature
+TX_Fort Bend,FL_Palm Beach,5,Temperature
+TX_Fort Bend,FL_Collier,5,Temperature
+TX_Frio,TX_Hidalgo,11,Temperature
+TX_Frio,FL_Collier,10,Temperature
+TX_Gaines,AZ_Pinal,8,Temperature
+TX_Gaines,AZ_Maricopa,8,Temperature
+TX_Gillespie,TX_Maverick,8,Temperature
+TX_Gillespie,TX_Frio,6,Temperature
+TX_Gillespie,FL_Levy,6,Temperature
+TX_Glasscock,CA_Imperial,9,Temperature
+TX_Glasscock,AZ_Yuma,9,Temperature
+TX_Glasscock,AZ_Maricopa,8,Temperature
+TX_Glasscock,AZ_Pinal,7,Temperature
+TX_Glasscock,FL_Gilchrist,6,Temperature
+TX_Gonzales,TX_Hidalgo,8,Temperature
+TX_Gonzales,FL_Collier,7,Temperature
+TX_Guadalupe,TX_Hidalgo,8,Temperature
+TX_Guadalupe,FL_Collier,5,Temperature
+TX_Hale,TX_El Paso,6,Temperature
+TX_Hale,TX_Midland,6,Temperature
+TX_Hale,TX_Pecos,6,Temperature
+TX_Hamilton,TX_Maverick,7,Temperature
+TX_Hamilton,FL_Alachua,6,Temperature
+TX_Hamilton,FL_Gilchrist,6,Temperature
+TX_Hamilton,FL_Levy,6,Temperature
+TX_Hamilton,FL_Suwannee,5,Temperature
+TX_Hartley,NM_Eddy,7,Temperature
+TX_Hartley,TX_Terry,6,Temperature
+TX_Hartley,TX_Gaines,6,Temperature
+TX_Hartley,NM_Dona Ana,6,Temperature
+TX_Hartley,TX_El Paso,5,Temperature
+TX_Henderson,TX_Maverick,7,Temperature
+TX_Hudspeth,AZ_Pinal,11,Temperature
+TX_Hudspeth,AZ_Maricopa,6,Temperature
+TX_Lamb,TX_El Paso,10,Temperature
+TX_Lamb,TX_Midland,5,Temperature
+TX_Lampasas,TX_Frio,6,Temperature
+TX_Lampasas,FL_Levy,5,Temperature
+TX_Lampasas,TX_Maverick,5,Temperature
+TX_Lavaca,TX_Hidalgo,10,Temperature
+TX_Lavaca,FL_Collier,8,Temperature
+TX_Lavaca,FL_Hendry,6,Temperature
+TX_Lee,FL_Collier,6,Temperature
+TX_Lubbock,TX_Midland,7,Temperature
+TX_Lubbock,TX_Pecos,7,Temperature
+TX_Madison,TX_Zavala,6,Temperature
+TX_Madison,TX_Frio,5,Temperature
+TX_Madison,TX_Maverick,5,Temperature
+TX_Matagorda,TX_Willacy,14,Temperature
+TX_Matagorda,FL_Lee,14,Temperature
+TX_Matagorda,TX_Cameron,13,Temperature
+TX_Matagorda,TX_Hidalgo,8,Temperature
+TX_Matagorda,FL_Martin,6,Temperature
+TX_Maverick,TX_Hidalgo,15,Temperature
+TX_Maverick,FL_Collier,9,Temperature
+TX_Medina,TX_Hidalgo,9,Temperature
+TX_Medina,FL_Collier,7,Temperature
+TX_Midland,AZ_Maricopa,14,Temperature
+TX_Midland,AZ_Yuma,12,Temperature
+TX_Midland,CA_Imperial,10,Temperature
+TX_Midland,AZ_Pinal,9,Temperature
+TX_Midland,FL_Gilchrist,5,Temperature
+TX_Milam,FL_Collier,7,Temperature
+TX_Montague,FL_Levy,5,Temperature
+TX_Navarro,TX_Maverick,5,Temperature
+TX_Palo Pinto,FL_Gilchrist,9,Temperature
+TX_Palo Pinto,TX_Frio,9,Temperature
+TX_Palo Pinto,FL_Alachua,7,Temperature
+TX_Palo Pinto,TX_Maverick,7,Temperature
+TX_Palo Pinto,FL_Lafayette,6,Temperature
+TX_Palo Pinto,FL_Suwannee,5,Temperature
+TX_Parker,FL_Gilchrist,7,Temperature
+TX_Parker,FL_Lafayette,6,Temperature
+TX_Parker,TX_Frio,6,Temperature
+TX_Parker,TX_Zavala,6,Temperature
+TX_Parker,FL_Alachua,5,Temperature
+TX_Parker,TX_Maverick,5,Temperature
+TX_Pecos,AZ_Maricopa,15,Temperature
+TX_Pecos,AZ_Yuma,13,Temperature
+TX_Pecos,CA_Imperial,11,Temperature
+TX_Pecos,AZ_Pinal,11,Temperature
+TX_Red River,FL_Suwannee,8,Temperature
+TX_Red River,FL_Alachua,7,Temperature
+TX_Red River,FL_Levy,5,Temperature
+TX_Red River,TX_Uvalde,5,Temperature
+TX_Red River,FL_Gilchrist,5,Temperature
+TX_Robertson,FL_Hendry,6,Temperature
+TX_San Saba,TX_Frio,8,Temperature
+TX_San Saba,FL_Alachua,6,Temperature
+TX_San Saba,FL_Levy,5,Temperature
+TX_San Saba,TX_Maverick,5,Temperature
+TX_Smith,TX_Maverick,7,Temperature
+TX_Smith,TX_Zavala,6,Temperature
+TX_Smith,TX_Frio,5,Temperature
+TX_Terry,TX_Pecos,7,Temperature
+TX_Terry,TX_Midland,6,Temperature
+TX_Travis,FL_Collier,8,Temperature
+TX_Travis,TX_Hidalgo,5,Temperature
+TX_Uvalde,TX_Hidalgo,8,Temperature
+TX_Uvalde,FL_Collier,5,Temperature
+TX_Van Zandt,FL_Marion,5,Temperature
+TX_Van Zandt,TX_Frio,5,Temperature
+TX_Van Zandt,FL_Gilchrist,5,Temperature
+TX_Waller,FL_Collier,7,Temperature
+TX_Waller,TX_Hidalgo,6,Temperature
+TX_Washington,FL_Collier,7,Temperature
+TX_Washington,TX_Hidalgo,5,Temperature
+TX_Wharton,TX_Hidalgo,11,Temperature
+TX_Wharton,FL_Collier,5,Temperature
+TX_Williamson,FL_Hendry,6,Temperature
+TX_Wilson,TX_Hidalgo,9,Temperature
+TX_Wilson,FL_Collier,8,Temperature
+TX_Wise,TX_Frio,6,Temperature
+TX_Wise,FL_Gilchrist,6,Temperature
+TX_Wise,FL_Lafayette,5,Temperature
+TX_Wise,FL_Alachua,5,Temperature
+TX_Wise,TX_Maverick,5,Temperature
+TX_Wise,TX_Zavala,5,Temperature
+TX_Wood,TX_Frio,6,Temperature
+TX_Wood,FL_Levy,5,Temperature
+TX_Zavala,TX_Hidalgo,14,Temperature
+TX_Zavala,FL_Collier,10,Temperature
+VA_Westmoreland,CA_Orange,8,Temperature
+VA_Westmoreland,NC_Hyde,5,Temperature
+VA_Westmoreland,TX_Grayson,5,Temperature
+WA_Clark,NJ_Gloucester,8,Temperature
+WA_Clark,NJ_Salem,7,Temperature
+WA_Clark,DE_Kent,7,Temperature
+WA_Clark,OR_Curry,5,Temperature
+WA_Clark,CA_San Mateo,5,Temperature
+WA_Cowlitz,CA_San Mateo,9,Temperature
+WA_Cowlitz,NJ_Gloucester,8,Temperature
+WA_Cowlitz,OR_Multnomah,7,Temperature
+WA_Cowlitz,OR_Curry,7,Temperature
+WA_Cowlitz,OR_Clackamas,6,Temperature
+WA_Cowlitz,DE_Kent,6,Temperature
+WA_Cowlitz,NJ_Salem,5,Temperature
+WA_Grays Harbor,CA_San Mateo,11,Temperature
+WA_Grays Harbor,NJ_Gloucester,9,Temperature
+WA_Grays Harbor,NJ_Salem,8,Temperature
+WA_Grays Harbor,OR_Curry,7,Temperature
+WA_Grays Harbor,OR_Multnomah,6,Temperature
+WA_Grays Harbor,OR_Clackamas,5,Temperature
+WA_King,CA_San Mateo,10,Temperature
+WA_King,RI_Newport,10,Temperature
+WA_King,MA_Bristol,8,Temperature
+WA_King,NJ_Gloucester,7,Temperature
+WA_Lewis,NJ_Salem,8,Temperature
+WA_Lewis,OR_Curry,7,Temperature
+WA_Lewis,DE_Kent,7,Temperature
+WA_Lewis,NJ_Gloucester,6,Temperature
+WA_Pacific,OR_Multnomah,11,Temperature
+WA_Pacific,OR_Clackamas,10,Temperature
+WA_Pacific,OR_Curry,8,Temperature
+WA_Pacific,OR_Marion,6,Temperature
+WA_Pierce,RI_Newport,10,Temperature
+WA_Pierce,MA_Bristol,9,Temperature
+WA_Skagit,CA_San Mateo,10,Temperature
+WA_Skagit,RI_Newport,10,Temperature
+WA_Skagit,MA_Bristol,9,Temperature
+WA_Snohomish,MA_Bristol,13,Temperature
+WA_Snohomish,CA_San Mateo,12,Temperature
+WA_Snohomish,RI_Newport,10,Temperature
+WA_Whatcom,CA_San Mateo,10,Temperature
+WA_Whatcom,RI_Newport,7,Temperature
+WA_Whatcom,MA_Bristol,7,Temperature
+WA_Whatcom,NJ_Gloucester,7,Temperature
+WI_Door,MA_Bristol,8,Temperature
+WI_Door,RI_Newport,5,Temperature
+WI_Door,WA_Snohomish,5,Temperature
+WI_Door,WA_Whatcom,5,Temperature
+WI_Kenosha,NJ_Gloucester,7,Temperature
+WI_Kenosha,OR_Curry,5,Temperature
+WI_Kewaunee,RI_Newport,5,Temperature
+WI_Kewaunee,OR_Clackamas,5,Temperature
+WI_Kewaunee,CA_San Mateo,5,Temperature
+WI_Manitowoc,OR_Clackamas,7,Temperature
+WI_Manitowoc,CA_San Mateo,5,Temperature
+WI_Manitowoc,RI_Newport,5,Temperature
+WI_Manitowoc,OR_Multnomah,5,Temperature
+WI_Manitowoc,NJ_Gloucester,5,Temperature
+WI_Racine,NJ_Gloucester,7,Temperature
+WI_Sheboygan,OR_Multnomah,7,Temperature
+WI_Sheboygan,OR_Marion,7,Temperature
+WI_Sheboygan,NJ_Gloucester,6,Temperature
+WI_Sheboygan,OR_Clackamas,5,Temperature
+WI_Washington,DE_Kent,5,Temperature

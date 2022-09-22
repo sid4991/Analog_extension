@@ -1,0 +1,1471 @@
+Target,Analog,Frequency,Set
+AL_Autauga,TX_Milam,6,Derived Variables
+AL_Autauga,TX_Caldwell,6,Derived Variables
+AL_Autauga,TX_Travis,5,Derived Variables
+AL_Autauga,TX_Bastrop,5,Derived Variables
+AL_Autauga,TX_Madison,5,Derived Variables
+AL_Barbour,TX_Uvalde,7,Derived Variables
+AL_Barbour,TX_Washington,5,Derived Variables
+AL_Bullock,TX_Bastrop,5,Derived Variables
+AL_Bullock,TX_Washington,5,Derived Variables
+AL_Chilton,TX_Milam,7,Derived Variables
+AL_Chilton,TX_Travis,7,Derived Variables
+AL_Covington,TX_Washington,7,Derived Variables
+AL_Covington,TX_Frio,6,Derived Variables
+AL_Covington,TX_Gonzales,6,Derived Variables
+AL_Covington,TX_Uvalde,5,Derived Variables
+AL_Covington,TX_Atascosa,5,Derived Variables
+AL_Covington,TX_Wilson,5,Derived Variables
+AL_Covington,TX_Colorado,5,Derived Variables
+AL_Covington,TX_Fayette,5,Derived Variables
+AL_Cullman,TX_Ellis,6,Derived Variables
+AL_Geneva,TX_Frio,6,Derived Variables
+AL_Geneva,TX_Zavala,6,Derived Variables
+AL_Geneva,TX_Maverick,6,Derived Variables
+AL_Geneva,TX_Wilson,6,Derived Variables
+AL_Geneva,TX_Atascosa,5,Derived Variables
+AL_Houston,TX_Frio,9,Derived Variables
+AL_Houston,TX_Zavala,7,Derived Variables
+AL_Houston,TX_Maverick,7,Derived Variables
+AL_Houston,TX_Atascosa,7,Derived Variables
+AL_Mobile,TX_Zavala,8,Derived Variables
+AL_Mobile,TX_Atascosa,8,Derived Variables
+AL_Mobile,TX_Frio,7,Derived Variables
+AL_Mobile,TX_Maverick,7,Derived Variables
+AL_Pike,TX_Uvalde,6,Derived Variables
+AL_Pike,TX_Bexar,5,Derived Variables
+AR_Bradley,TX_Bastrop,7,Derived Variables
+AR_Bradley,TX_Milam,7,Derived Variables
+AR_Bradley,TX_Travis,5,Derived Variables
+AR_Bradley,TX_Bell,5,Derived Variables
+AR_Chicot,TX_Travis,6,Derived Variables
+AR_Chicot,TX_Frio,6,Derived Variables
+AR_Chicot,TX_Bexar,5,Derived Variables
+AR_Chicot,TX_Bastrop,5,Derived Variables
+AR_Conway,TX_Ellis,7,Derived Variables
+AR_Cross,TX_Ellis,8,Derived Variables
+AR_Cross,TX_Bell,5,Derived Variables
+AR_Jefferson,TX_Travis,8,Derived Variables
+AR_Jefferson,TX_Milam,7,Derived Variables
+AR_Jefferson,TX_Bastrop,6,Derived Variables
+AR_Jefferson,AZ_Pinal,5,Derived Variables
+AR_Jefferson,TX_Williamson,5,Derived Variables
+AR_Little River,TX_Bastrop,6,Derived Variables
+AR_Little River,TX_Milam,6,Derived Variables
+AR_Little River,TX_Washington,5,Derived Variables
+AR_Lonoke,TX_Travis,7,Derived Variables
+AR_Lonoke,TX_Williamson,7,Derived Variables
+AR_Lonoke,TX_Milam,7,Derived Variables
+AR_Lonoke,TX_Bell,5,Derived Variables
+AR_Lonoke,TX_Bastrop,5,Derived Variables
+AR_Miller,TX_Frio,6,Derived Variables
+AR_Miller,TX_Milam,5,Derived Variables
+AR_Miller,TX_Wilson,5,Derived Variables
+AR_Miller,TX_Bastrop,5,Derived Variables
+AR_Phillips,TX_Williamson,9,Derived Variables
+AR_Phillips,TX_Travis,8,Derived Variables
+AR_Phillips,TX_Milam,7,Derived Variables
+AR_Phillips,TX_Bell,7,Derived Variables
+AZ_Cochise,TX_Uvalde,8,Derived Variables
+AZ_Graham,TX_Midland,7,Derived Variables
+AZ_Pinal,AZ_Yuma,17,Derived Variables
+CA_Alameda,CA_San Diego,16,Derived Variables
+CA_Alameda,CA_Ventura,15,Derived Variables
+CA_Alameda,CA_Contra Costa,13,Derived Variables
+CA_Alameda,CA_Los Angeles,11,Derived Variables
+CA_Alameda,CA_Solano,9,Derived Variables
+CA_Amador,CA_Kern,17,Derived Variables
+CA_Amador,CA_Riverside,15,Derived Variables
+CA_Amador,CA_Kings,14,Derived Variables
+CA_Amador,CA_Tulare,11,Derived Variables
+CA_Amador,CA_San Bernardino,9,Derived Variables
+CA_Amador,CA_Fresno,8,Derived Variables
+CA_Butte,CA_Kern,17,Derived Variables
+CA_Butte,CA_Riverside,15,Derived Variables
+CA_Butte,CA_Kings,14,Derived Variables
+CA_Butte,CA_San Bernardino,13,Derived Variables
+CA_Butte,CA_Tulare,8,Derived Variables
+CA_Calaveras,CA_Kern,16,Derived Variables
+CA_Calaveras,CA_Kings,16,Derived Variables
+CA_Calaveras,CA_Riverside,14,Derived Variables
+CA_Calaveras,CA_Tulare,13,Derived Variables
+CA_Calaveras,CA_San Bernardino,9,Derived Variables
+CA_Calaveras,CA_Fresno,8,Derived Variables
+CA_Colusa,CA_Kern,16,Derived Variables
+CA_Colusa,CA_Riverside,14,Derived Variables
+CA_Colusa,CA_Kings,14,Derived Variables
+CA_Colusa,CA_San Bernardino,12,Derived Variables
+CA_Colusa,CA_Tulare,11,Derived Variables
+CA_Colusa,CA_Fresno,5,Derived Variables
+CA_Contra Costa,CA_Stanislaus,12,Derived Variables
+CA_Contra Costa,CA_Merced,12,Derived Variables
+CA_Contra Costa,CA_Riverside,10,Derived Variables
+CA_Contra Costa,CA_Kern,9,Derived Variables
+CA_Contra Costa,CA_Fresno,9,Derived Variables
+CA_Contra Costa,CA_Yolo,6,Derived Variables
+CA_Contra Costa,CA_Sutter,5,Derived Variables
+CA_Contra Costa,CA_Tulare,5,Derived Variables
+CA_El Dorado,CA_Calaveras,10,Derived Variables
+CA_El Dorado,CA_Shasta,9,Derived Variables
+CA_El Dorado,CA_Placer,7,Derived Variables
+CA_El Dorado,CA_Nevada,7,Derived Variables
+CA_El Dorado,CA_Los Angeles,5,Derived Variables
+CA_Fresno,CA_San Bernardino,16,Derived Variables
+CA_Fresno,CA_Riverside,15,Derived Variables
+CA_Fresno,CA_Kern,9,Derived Variables
+CA_Fresno,AZ_Pinal,8,Derived Variables
+CA_Fresno,CA_Kings,7,Derived Variables
+CA_Glenn,CA_Kern,17,Derived Variables
+CA_Glenn,CA_Riverside,15,Derived Variables
+CA_Glenn,CA_San Bernardino,14,Derived Variables
+CA_Glenn,CA_Kings,8,Derived Variables
+CA_Glenn,CA_Tulare,8,Derived Variables
+CA_Kern,AZ_Pinal,12,Derived Variables
+CA_Kern,CA_San Bernardino,8,Derived Variables
+CA_Kern,CA_Riverside,8,Derived Variables
+CA_Kern,AZ_Maricopa,7,Derived Variables
+CA_Kern,TX_Zavala,6,Derived Variables
+CA_Kings,CA_San Bernardino,13,Derived Variables
+CA_Kings,CA_Riverside,13,Derived Variables
+CA_Kings,AZ_Pinal,9,Derived Variables
+CA_Kings,CA_Kern,7,Derived Variables
+CA_Los Angeles,CA_Riverside,17,Derived Variables
+CA_Los Angeles,CA_Kern,17,Derived Variables
+CA_Los Angeles,CA_Tulare,10,Derived Variables
+CA_Los Angeles,CA_Fresno,9,Derived Variables
+CA_Los Angeles,CA_Kings,9,Derived Variables
+CA_Los Angeles,TX_Uvalde,7,Derived Variables
+CA_Los Angeles,TX_Travis,6,Derived Variables
+CA_Madera,CA_Riverside,16,Derived Variables
+CA_Madera,CA_San Bernardino,15,Derived Variables
+CA_Madera,CA_Kern,10,Derived Variables
+CA_Madera,CA_Kings,7,Derived Variables
+CA_Marin,CA_Orange,17,Derived Variables
+CA_Marin,CA_Ventura,15,Derived Variables
+CA_Marin,CA_Santa Barbara,14,Derived Variables
+CA_Marin,CA_Marin,10,Derived Variables
+CA_Mendocino,CA_Solano,12,Derived Variables
+CA_Mendocino,CA_Sacramento,12,Derived Variables
+CA_Mendocino,CA_San Luis Obispo,11,Derived Variables
+CA_Mendocino,CA_Yolo,6,Derived Variables
+CA_Mendocino,CA_Napa,6,Derived Variables
+CA_Mendocino,CA_Sutter,5,Derived Variables
+CA_Mendocino,CA_Colusa,5,Derived Variables
+CA_Mendocino,CA_San Joaquin,5,Derived Variables
+CA_Merced,CA_Riverside,17,Derived Variables
+CA_Merced,CA_San Bernardino,15,Derived Variables
+CA_Merced,CA_Kern,12,Derived Variables
+CA_Merced,CA_Kings,8,Derived Variables
+CA_Merced,CA_Tulare,8,Derived Variables
+CA_Modoc,ID_Canyon,9,Derived Variables
+CA_Modoc,ID_Ada,7,Derived Variables
+CA_Modoc,CO_Mesa,5,Derived Variables
+CA_Monterey,CA_Ventura,16,Derived Variables
+CA_Monterey,CA_San Diego,15,Derived Variables
+CA_Monterey,CA_San Benito,13,Derived Variables
+CA_Monterey,CA_Contra Costa,11,Derived Variables
+CA_Monterey,CA_Alameda,10,Derived Variables
+CA_Napa,CA_Stanislaus,12,Derived Variables
+CA_Napa,CA_Merced,12,Derived Variables
+CA_Napa,CA_Yuba,11,Derived Variables
+CA_Napa,CA_Riverside,9,Derived Variables
+CA_Napa,CA_Yolo,8,Derived Variables
+CA_Napa,CA_Sutter,7,Derived Variables
+CA_Napa,CA_Fresno,7,Derived Variables
+CA_Napa,CA_Kern,6,Derived Variables
+CA_Napa,CA_Tulare,5,Derived Variables
+CA_Nevada,CA_Kern,15,Derived Variables
+CA_Nevada,CA_Tulare,15,Derived Variables
+CA_Nevada,CA_Kings,15,Derived Variables
+CA_Nevada,CA_Riverside,14,Derived Variables
+CA_Nevada,CA_Fresno,11,Derived Variables
+CA_Nevada,CA_San Bernardino,6,Derived Variables
+CA_Placer,CA_Riverside,16,Derived Variables
+CA_Placer,CA_Kern,16,Derived Variables
+CA_Placer,CA_Kings,10,Derived Variables
+CA_Placer,CA_Tulare,9,Derived Variables
+CA_Placer,CA_Fresno,8,Derived Variables
+CA_Placer,CA_San Bernardino,8,Derived Variables
+CA_Riverside,TX_Maverick,11,Derived Variables
+CA_Riverside,TX_Zavala,10,Derived Variables
+CA_Riverside,CA_Imperial,6,Derived Variables
+CA_Riverside,AZ_Pinal,5,Derived Variables
+CA_Sacramento,CA_Kern,17,Derived Variables
+CA_Sacramento,CA_Riverside,15,Derived Variables
+CA_Sacramento,CA_Tulare,11,Derived Variables
+CA_Sacramento,CA_Kings,11,Derived Variables
+CA_Sacramento,CA_Fresno,8,Derived Variables
+CA_San Benito,CA_Sacramento,14,Derived Variables
+CA_San Benito,CA_San Joaquin,14,Derived Variables
+CA_San Benito,CA_Solano,12,Derived Variables
+CA_San Benito,CA_Sutter,10,Derived Variables
+CA_San Benito,CA_San Diego,7,Derived Variables
+CA_San Benito,CA_Placer,5,Derived Variables
+CA_San Benito,CA_Stanislaus,5,Derived Variables
+CA_San Benito,CA_Merced,5,Derived Variables
+CA_San Bernardino,AZ_Maricopa,17,Derived Variables
+CA_San Bernardino,AZ_Pinal,17,Derived Variables
+CA_San Bernardino,AZ_Yuma,13,Derived Variables
+CA_San Diego,CA_Riverside,16,Derived Variables
+CA_San Diego,TX_Brazoria,11,Derived Variables
+CA_San Joaquin,CA_Kern,16,Derived Variables
+CA_San Joaquin,CA_Riverside,15,Derived Variables
+CA_San Joaquin,CA_Kings,9,Derived Variables
+CA_San Joaquin,CA_Tulare,8,Derived Variables
+CA_San Joaquin,CA_Fresno,8,Derived Variables
+CA_San Luis Obispo,CA_Sutter,16,Derived Variables
+CA_San Luis Obispo,CA_Colusa,15,Derived Variables
+CA_San Luis Obispo,CA_San Joaquin,14,Derived Variables
+CA_San Luis Obispo,CA_Riverside,10,Derived Variables
+CA_San Luis Obispo,CA_Sacramento,10,Derived Variables
+CA_San Luis Obispo,CA_Merced,8,Derived Variables
+CA_San Luis Obispo,CA_Solano,6,Derived Variables
+CA_Santa Barbara,CA_Orange,17,Derived Variables
+CA_Santa Barbara,CA_Santa Barbara,15,Derived Variables
+CA_Santa Clara,CA_San Diego,15,Derived Variables
+CA_Santa Clara,CA_Ventura,13,Derived Variables
+CA_Santa Clara,CA_Solano,13,Derived Variables
+CA_Santa Clara,CA_Los Angeles,12,Derived Variables
+CA_Santa Clara,CA_Contra Costa,9,Derived Variables
+CA_Santa Clara,CA_Stanislaus,7,Derived Variables
+CA_Shasta,CA_Kings,16,Derived Variables
+CA_Shasta,CA_Tulare,16,Derived Variables
+CA_Shasta,CA_Fresno,16,Derived Variables
+CA_Shasta,CA_Kern,13,Derived Variables
+CA_Shasta,CA_Madera,10,Derived Variables
+CA_Siskiyou,UT_Davis,9,Derived Variables
+CA_Siskiyou,WA_Franklin,6,Derived Variables
+CA_Siskiyou,WA_Benton,5,Derived Variables
+CA_Solano,CA_Riverside,15,Derived Variables
+CA_Solano,CA_Kern,15,Derived Variables
+CA_Solano,CA_Tulare,15,Derived Variables
+CA_Solano,CA_Kings,14,Derived Variables
+CA_Solano,CA_Fresno,13,Derived Variables
+CA_Sonoma,CA_Ventura,17,Derived Variables
+CA_Sonoma,CA_San Diego,15,Derived Variables
+CA_Sonoma,CA_Contra Costa,14,Derived Variables
+CA_Sonoma,CA_Solano,11,Derived Variables
+CA_Sonoma,CA_Napa,7,Derived Variables
+CA_Sonoma,CA_Alameda,6,Derived Variables
+CA_Sonoma,CA_Sacramento,5,Derived Variables
+CA_Stanislaus,CA_Riverside,17,Derived Variables
+CA_Stanislaus,CA_Kern,15,Derived Variables
+CA_Stanislaus,CA_Kings,11,Derived Variables
+CA_Stanislaus,CA_San Bernardino,10,Derived Variables
+CA_Stanislaus,CA_Tulare,8,Derived Variables
+CA_Stanislaus,CA_Fresno,7,Derived Variables
+CA_Sutter,CA_Kern,17,Derived Variables
+CA_Sutter,CA_Riverside,16,Derived Variables
+CA_Sutter,CA_San Bernardino,14,Derived Variables
+CA_Sutter,CA_Kings,9,Derived Variables
+CA_Sutter,CA_Tulare,8,Derived Variables
+CA_Tehama,CA_Kern,17,Derived Variables
+CA_Tehama,CA_San Bernardino,16,Derived Variables
+CA_Tehama,CA_Riverside,14,Derived Variables
+CA_Tehama,CA_Kings,12,Derived Variables
+CA_Tehama,CA_Tulare,8,Derived Variables
+CA_Tulare,CA_San Bernardino,13,Derived Variables
+CA_Tulare,CA_Riverside,12,Derived Variables
+CA_Tulare,AZ_Pinal,9,Derived Variables
+CA_Tulare,CA_Kern,8,Derived Variables
+CA_Ventura,TX_Brazoria,12,Derived Variables
+CA_Ventura,CA_Ventura,10,Derived Variables
+CA_Ventura,CA_San Diego,8,Derived Variables
+CA_Ventura,CA_Orange,6,Derived Variables
+CA_Yolo,CA_Kern,17,Derived Variables
+CA_Yolo,CA_Riverside,15,Derived Variables
+CA_Yolo,CA_Kings,14,Derived Variables
+CA_Yolo,CA_San Bernardino,9,Derived Variables
+CA_Yolo,CA_Tulare,8,Derived Variables
+CA_Yolo,CA_Fresno,8,Derived Variables
+CA_Yuba,CA_Riverside,17,Derived Variables
+CA_Yuba,CA_Kern,17,Derived Variables
+CA_Yuba,CA_San Bernardino,13,Derived Variables
+CA_Yuba,CA_Tulare,8,Derived Variables
+CA_Yuba,CA_Kings,8,Derived Variables
+DE_Kent,AR_Jefferson,5,Derived Variables
+DE_Sussex,AR_Jefferson,9,Derived Variables
+FL_Alachua,CA_Imperial,5,Derived Variables
+FL_Brevard,TX_Hidalgo,15,Derived Variables
+FL_Brevard,TX_Cameron,15,Derived Variables
+FL_Charlotte,TX_Hidalgo,15,Derived Variables
+FL_Charlotte,TX_Cameron,15,Derived Variables
+FL_Collier,TX_Hidalgo,15,Derived Variables
+FL_Columbia,TX_Maverick,7,Derived Variables
+FL_Escambia,TX_Zavala,7,Derived Variables
+FL_Escambia,TX_Maverick,6,Derived Variables
+FL_Escambia,TX_Atascosa,6,Derived Variables
+FL_Escambia,TX_Frio,6,Derived Variables
+FL_Gadsden,TX_Maverick,9,Derived Variables
+FL_Gadsden,TX_Frio,6,Derived Variables
+FL_Gadsden,TX_Zavala,5,Derived Variables
+FL_Gadsden,TX_Atascosa,5,Derived Variables
+FL_Gilchrist,TX_Maverick,6,Derived Variables
+FL_Gilchrist,CA_Imperial,5,Derived Variables
+FL_Hamilton,TX_Maverick,8,Derived Variables
+FL_Hardee,TX_Hidalgo,15,Derived Variables
+FL_Hardee,TX_Cameron,15,Derived Variables
+FL_Hendry,TX_Hidalgo,15,Derived Variables
+FL_Hendry,TX_Cameron,15,Derived Variables
+FL_Hendry,TX_Willacy,6,Derived Variables
+FL_Hernando,TX_Hidalgo,14,Derived Variables
+FL_Hernando,CA_Imperial,7,Derived Variables
+FL_Hernando,AZ_Yuma,7,Derived Variables
+FL_Highlands,TX_Hidalgo,15,Derived Variables
+FL_Highlands,TX_Cameron,15,Derived Variables
+FL_Highlands,TX_Willacy,6,Derived Variables
+FL_Hillsborough,TX_Hidalgo,16,Derived Variables
+FL_Hillsborough,TX_Cameron,15,Derived Variables
+FL_Indian River,TX_Hidalgo,15,Derived Variables
+FL_Indian River,TX_Cameron,15,Derived Variables
+FL_Indian River,TX_Willacy,7,Derived Variables
+FL_Jackson,TX_Maverick,10,Derived Variables
+FL_Jackson,TX_Atascosa,7,Derived Variables
+FL_Jackson,TX_Frio,7,Derived Variables
+FL_Jefferson,TX_Maverick,9,Derived Variables
+FL_Jefferson,TX_Frio,5,Derived Variables
+FL_Lafayette,TX_Maverick,9,Derived Variables
+FL_Lake,TX_Hidalgo,16,Derived Variables
+FL_Lee,TX_Hidalgo,15,Derived Variables
+FL_Levy,CA_Imperial,5,Derived Variables
+FL_Manatee,TX_Hidalgo,15,Derived Variables
+FL_Manatee,TX_Cameron,15,Derived Variables
+FL_Marion,TX_Hidalgo,6,Derived Variables
+FL_Marion,CA_Imperial,6,Derived Variables
+FL_Marion,AZ_Yuma,6,Derived Variables
+FL_Martin,TX_Hidalgo,14,Derived Variables
+FL_Okeechobee,TX_Hidalgo,14,Derived Variables
+FL_Okeechobee,TX_Cameron,14,Derived Variables
+FL_Okeechobee,TX_Willacy,7,Derived Variables
+FL_Orange,TX_Hidalgo,16,Derived Variables
+FL_Osceola,TX_Hidalgo,16,Derived Variables
+FL_Osceola,TX_Cameron,11,Derived Variables
+FL_Palm Beach,TX_Cameron,15,Derived Variables
+FL_Palm Beach,TX_Willacy,15,Derived Variables
+FL_Palm Beach,TX_Hidalgo,14,Derived Variables
+FL_Pasco,TX_Hidalgo,16,Derived Variables
+FL_Polk,TX_Hidalgo,16,Derived Variables
+FL_Polk,TX_Cameron,14,Derived Variables
+FL_Putnam,CA_Imperial,6,Derived Variables
+FL_Putnam,TX_Hidalgo,5,Derived Variables
+FL_Putnam,AZ_Yuma,5,Derived Variables
+FL_Sarasota,TX_Hidalgo,15,Derived Variables
+FL_Sarasota,TX_Cameron,15,Derived Variables
+FL_Sarasota,TX_Willacy,6,Derived Variables
+FL_Seminole,TX_Hidalgo,15,Derived Variables
+FL_Suwannee,TX_Maverick,8,Derived Variables
+FL_Suwannee,CA_Imperial,5,Derived Variables
+FL_Volusia,TX_Hidalgo,15,Derived Variables
+FL_Volusia,CA_Imperial,5,Derived Variables
+FL_Volusia,AZ_Yuma,5,Derived Variables
+FL_Walton,TX_Frio,7,Derived Variables
+FL_Walton,TX_Maverick,7,Derived Variables
+FL_Walton,TX_Atascosa,6,Derived Variables
+FL_Walton,TX_Zavala,6,Derived Variables
+GA_Appling,TX_Maverick,12,Derived Variables
+GA_Appling,TX_Frio,7,Derived Variables
+GA_Appling,TX_Zavala,6,Derived Variables
+GA_Appling,TX_Atascosa,6,Derived Variables
+GA_Atkinson,TX_Maverick,10,Derived Variables
+GA_Atkinson,TX_Frio,9,Derived Variables
+GA_Atkinson,TX_Zavala,5,Derived Variables
+GA_Bacon,TX_Maverick,10,Derived Variables
+GA_Bacon,TX_Zavala,7,Derived Variables
+GA_Bacon,TX_Frio,6,Derived Variables
+GA_Bacon,TX_Atascosa,5,Derived Variables
+GA_Ben Hill,TX_Frio,9,Derived Variables
+GA_Ben Hill,TX_Maverick,7,Derived Variables
+GA_Ben Hill,TX_Zavala,6,Derived Variables
+GA_Ben Hill,TX_Atascosa,6,Derived Variables
+GA_Berrien,TX_Maverick,9,Derived Variables
+GA_Berrien,TX_Frio,9,Derived Variables
+GA_Brooks,TX_Maverick,9,Derived Variables
+GA_Brooks,TX_Frio,6,Derived Variables
+GA_Bulloch,TX_Zavala,9,Derived Variables
+GA_Bulloch,TX_Atascosa,9,Derived Variables
+GA_Bulloch,TX_Frio,8,Derived Variables
+GA_Bulloch,TX_Maverick,8,Derived Variables
+GA_Burke,TX_Uvalde,7,Derived Variables
+GA_Burke,TX_Guadalupe,6,Derived Variables
+GA_Burke,TX_Bastrop,6,Derived Variables
+GA_Burke,TX_Washington,5,Derived Variables
+GA_Burke,TX_Fayette,5,Derived Variables
+GA_Candler,TX_Frio,10,Derived Variables
+GA_Candler,TX_Maverick,10,Derived Variables
+GA_Candler,TX_Zavala,8,Derived Variables
+GA_Candler,TX_Atascosa,8,Derived Variables
+GA_Clinch,TX_Maverick,10,Derived Variables
+GA_Colquitt,TX_Maverick,8,Derived Variables
+GA_Colquitt,TX_Zavala,8,Derived Variables
+GA_Colquitt,TX_Frio,6,Derived Variables
+GA_Colquitt,TX_Atascosa,5,Derived Variables
+GA_Cook,TX_Maverick,9,Derived Variables
+GA_Cook,TX_Frio,8,Derived Variables
+GA_Cook,TX_Zavala,7,Derived Variables
+GA_Cook,TX_Atascosa,5,Derived Variables
+GA_Crisp,TX_Frio,9,Derived Variables
+GA_Crisp,TX_Maverick,8,Derived Variables
+GA_Crisp,TX_Zavala,7,Derived Variables
+GA_Crisp,TX_Atascosa,7,Derived Variables
+GA_Decatur,TX_Maverick,10,Derived Variables
+GA_Decatur,TX_Frio,6,Derived Variables
+GA_Decatur,TX_Zavala,5,Derived Variables
+GA_Decatur,AZ_Maricopa,5,Derived Variables
+GA_Echols,TX_Maverick,9,Derived Variables
+GA_Echols,TX_Frio,6,Derived Variables
+GA_Evans,TX_Frio,9,Derived Variables
+GA_Evans,TX_Maverick,8,Derived Variables
+GA_Evans,TX_Atascosa,8,Derived Variables
+GA_Evans,TX_Zavala,7,Derived Variables
+GA_Grady,TX_Maverick,9,Derived Variables
+GA_Grady,TX_Frio,6,Derived Variables
+GA_Grady,TX_Zavala,5,Derived Variables
+GA_Houston,TX_Frio,7,Derived Variables
+GA_Houston,TX_Uvalde,5,Derived Variables
+GA_Houston,TX_Wilson,5,Derived Variables
+GA_Jefferson,TX_Guadalupe,6,Derived Variables
+GA_Jefferson,TX_Uvalde,5,Derived Variables
+GA_Jefferson,TX_Bastrop,5,Derived Variables
+GA_Jefferson,TX_Caldwell,5,Derived Variables
+GA_Lanier,TX_Maverick,9,Derived Variables
+GA_Lanier,TX_Frio,7,Derived Variables
+GA_Lee,TX_Frio,8,Derived Variables
+GA_Lee,TX_Zavala,8,Derived Variables
+GA_Lee,TX_Maverick,7,Derived Variables
+GA_Lee,TX_Atascosa,7,Derived Variables
+GA_Lowndes,TX_Maverick,9,Derived Variables
+GA_Lowndes,TX_Zavala,5,Derived Variables
+GA_Mitchell,TX_Maverick,10,Derived Variables
+GA_Mitchell,TX_Zavala,8,Derived Variables
+GA_Mitchell,TX_Frio,7,Derived Variables
+GA_Mitchell,TX_Atascosa,5,Derived Variables
+GA_Montgomery,TX_Frio,9,Derived Variables
+GA_Montgomery,TX_Maverick,9,Derived Variables
+GA_Montgomery,TX_Atascosa,7,Derived Variables
+GA_Montgomery,TX_Zavala,6,Derived Variables
+GA_Pierce,TX_Maverick,10,Derived Variables
+GA_Pierce,TX_Frio,6,Derived Variables
+GA_Pulaski,TX_Frio,9,Derived Variables
+GA_Pulaski,TX_Wilson,7,Derived Variables
+GA_Pulaski,TX_Maverick,7,Derived Variables
+GA_Pulaski,TX_Atascosa,6,Derived Variables
+GA_Screven,TX_Frio,9,Derived Variables
+GA_Screven,TX_Wilson,8,Derived Variables
+GA_Screven,TX_Atascosa,6,Derived Variables
+GA_Screven,TX_Maverick,5,Derived Variables
+GA_Screven,TX_Uvalde,5,Derived Variables
+GA_Seminole,TX_Maverick,10,Derived Variables
+GA_Seminole,TX_Frio,6,Derived Variables
+GA_Seminole,TX_Zavala,5,Derived Variables
+GA_Sumter,TX_Maverick,6,Derived Variables
+GA_Sumter,TX_Uvalde,5,Derived Variables
+GA_Sumter,TX_Frio,5,Derived Variables
+GA_Sumter,TX_Wilson,5,Derived Variables
+GA_Tattnall,TX_Maverick,10,Derived Variables
+GA_Tattnall,TX_Frio,9,Derived Variables
+GA_Tattnall,TX_Zavala,7,Derived Variables
+GA_Tattnall,TX_Atascosa,6,Derived Variables
+GA_Thomas,TX_Maverick,9,Derived Variables
+GA_Thomas,TX_Zavala,6,Derived Variables
+GA_Tift,TX_Frio,8,Derived Variables
+GA_Tift,TX_Maverick,7,Derived Variables
+GA_Tift,TX_Zavala,6,Derived Variables
+GA_Tift,TX_Atascosa,6,Derived Variables
+GA_Toombs,TX_Maverick,11,Derived Variables
+GA_Toombs,TX_Frio,10,Derived Variables
+GA_Toombs,TX_Zavala,6,Derived Variables
+GA_Toombs,TX_Atascosa,6,Derived Variables
+GA_Turner,TX_Frio,9,Derived Variables
+GA_Turner,TX_Atascosa,7,Derived Variables
+GA_Turner,TX_Maverick,6,Derived Variables
+GA_Turner,TX_Zavala,5,Derived Variables
+GA_Upson,TX_Travis,6,Derived Variables
+GA_Upson,TX_Caldwell,6,Derived Variables
+GA_Upson,TX_Uvalde,5,Derived Variables
+GA_Ware,TX_Maverick,9,Derived Variables
+GA_Ware,TX_Frio,5,Derived Variables
+GA_Washington,TX_Uvalde,6,Derived Variables
+GA_Washington,TX_Guadalupe,5,Derived Variables
+GA_Washington,TX_Caldwell,5,Derived Variables
+GA_Wayne,TX_Maverick,11,Derived Variables
+GA_Wayne,TX_Frio,7,Derived Variables
+GA_Wilcox,TX_Frio,9,Derived Variables
+GA_Wilcox,TX_Maverick,7,Derived Variables
+GA_Wilcox,TX_Atascosa,6,Derived Variables
+GA_Wilcox,TX_Zavala,5,Derived Variables
+GA_Wilcox,TX_Wilson,5,Derived Variables
+GA_Worth,TX_Frio,9,Derived Variables
+GA_Worth,TX_Atascosa,7,Derived Variables
+GA_Worth,TX_Maverick,6,Derived Variables
+GA_Worth,TX_Zavala,6,Derived Variables
+ID_Ada,UT_Davis,7,Derived Variables
+ID_Ada,ID_Canyon,5,Derived Variables
+ID_Ada,WA_Benton,5,Derived Variables
+ID_Bingham,ID_Payette,12,Derived Variables
+ID_Bingham,ID_Canyon,9,Derived Variables
+ID_Bingham,ID_Gooding,6,Derived Variables
+ID_Bingham,ID_Washington,5,Derived Variables
+ID_Bonneville,ID_Payette,11,Derived Variables
+ID_Bonneville,ID_Canyon,9,Derived Variables
+ID_Bonneville,ID_Gooding,6,Derived Variables
+ID_Bonneville,ID_Ada,6,Derived Variables
+ID_Bonneville,ID_Washington,5,Derived Variables
+ID_Butte,ID_Payette,10,Derived Variables
+ID_Butte,ID_Washington,10,Derived Variables
+ID_Butte,ID_Gooding,8,Derived Variables
+ID_Caribou,ID_Washington,10,Derived Variables
+ID_Caribou,ID_Gooding,9,Derived Variables
+ID_Caribou,ID_Ada,5,Derived Variables
+ID_Caribou,ID_Payette,5,Derived Variables
+ID_Cassia,ID_Payette,11,Derived Variables
+ID_Cassia,ID_Canyon,9,Derived Variables
+ID_Elmore,ID_Gooding,12,Derived Variables
+ID_Elmore,ID_Payette,12,Derived Variables
+ID_Elmore,ID_Canyon,8,Derived Variables
+ID_Elmore,ID_Washington,7,Derived Variables
+ID_Elmore,ID_Ada,6,Derived Variables
+ID_Fremont,ID_Jerome,6,Derived Variables
+ID_Fremont,OR_Malheur,5,Derived Variables
+ID_Gooding,ID_Payette,6,Derived Variables
+ID_Gooding,ID_Canyon,6,Derived Variables
+ID_Jefferson,ID_Payette,11,Derived Variables
+ID_Jefferson,ID_Washington,9,Derived Variables
+ID_Jefferson,ID_Gooding,8,Derived Variables
+ID_Jefferson,ID_Canyon,5,Derived Variables
+ID_Jerome,ID_Payette,10,Derived Variables
+ID_Jerome,ID_Canyon,6,Derived Variables
+ID_Jerome,UT_Davis,5,Derived Variables
+ID_Madison,OR_Malheur,7,Derived Variables
+ID_Madison,ID_Washington,5,Derived Variables
+ID_Minidoka,ID_Payette,11,Derived Variables
+ID_Minidoka,ID_Canyon,7,Derived Variables
+ID_Owyhee,ID_Canyon,9,Derived Variables
+ID_Owyhee,ID_Payette,8,Derived Variables
+ID_Owyhee,UT_Davis,8,Derived Variables
+ID_Payette,UT_Davis,7,Derived Variables
+ID_Payette,WA_Benton,5,Derived Variables
+ID_Power,ID_Payette,13,Derived Variables
+ID_Power,ID_Canyon,12,Derived Variables
+ID_Twin Falls,ID_Payette,9,Derived Variables
+ID_Twin Falls,UT_Davis,8,Derived Variables
+ID_Twin Falls,ID_Canyon,7,Derived Variables
+ID_Washington,ID_Canyon,13,Derived Variables
+ID_Washington,UT_Davis,13,Derived Variables
+ID_Washington,ID_Payette,11,Derived Variables
+ID_Washington,WA_Benton,7,Derived Variables
+ID_Washington,WA_Walla Walla,7,Derived Variables
+MD_Baltimore,MO_Dunklin,7,Derived Variables
+MD_Caroline,OK_Bryan,5,Derived Variables
+MD_Carroll,MO_Dunklin,6,Derived Variables
+MD_Carroll,CA_Shasta,5,Derived Variables
+MD_Harford,MO_Dunklin,7,Derived Variables
+MD_Washington,MO_Dunklin,6,Derived Variables
+MD_Wicomico,AR_Jefferson,8,Derived Variables
+MD_Worcester,AR_Jefferson,9,Derived Variables
+ME_Cumberland,OR_Jackson,8,Derived Variables
+ME_York,OR_Josephine,8,Derived Variables
+ME_York,OR_Jackson,6,Derived Variables
+ME_York,OR_Umatilla,5,Derived Variables
+MI_Antrim,OR_Jackson,11,Derived Variables
+MI_Antrim,OR_Josephine,8,Derived Variables
+MI_Antrim,OR_Umatilla,6,Derived Variables
+MI_Arenac,OR_Morrow,10,Derived Variables
+MI_Arenac,WA_Franklin,9,Derived Variables
+MI_Arenac,WA_Benton,6,Derived Variables
+MI_Arenac,WA_Walla Walla,6,Derived Variables
+MI_Arenac,OR_Josephine,5,Derived Variables
+MI_Bay,OR_Morrow,10,Derived Variables
+MI_Bay,WA_Benton,10,Derived Variables
+MI_Bay,UT_Davis,8,Derived Variables
+MI_Bay,OR_Josephine,8,Derived Variables
+MI_Bay,WA_Walla Walla,8,Derived Variables
+MI_Bay,WA_Franklin,7,Derived Variables
+MI_Benzie,OR_Josephine,9,Derived Variables
+MI_Benzie,OR_Jackson,7,Derived Variables
+MI_Benzie,CA_El Dorado,6,Derived Variables
+MI_Benzie,OR_Umatilla,5,Derived Variables
+MI_Berrien,CA_Shasta,5,Derived Variables
+MI_Genesee,WA_Benton,7,Derived Variables
+MI_Genesee,UT_Davis,6,Derived Variables
+MI_Grand Traverse,OR_Umatilla,10,Derived Variables
+MI_Grand Traverse,OR_Jackson,6,Derived Variables
+MI_Grand Traverse,WA_Franklin,6,Derived Variables
+MI_Grand Traverse,OR_Morrow,6,Derived Variables
+MI_Gratiot,UT_Davis,9,Derived Variables
+MI_Gratiot,WA_Franklin,8,Derived Variables
+MI_Gratiot,WA_Benton,8,Derived Variables
+MI_Gratiot,OR_Morrow,5,Derived Variables
+MI_Ionia,UT_Davis,9,Derived Variables
+MI_Ionia,WA_Franklin,5,Derived Variables
+MI_Ionia,WA_Benton,5,Derived Variables
+MI_Isabella,UT_Davis,11,Derived Variables
+MI_Isabella,WA_Benton,10,Derived Variables
+MI_Isabella,OR_Morrow,6,Derived Variables
+MI_Isabella,WA_Franklin,6,Derived Variables
+MI_Isabella,WA_Walla Walla,5,Derived Variables
+MI_Kalkaska,OR_Umatilla,7,Derived Variables
+MI_Kalkaska,OR_Jackson,7,Derived Variables
+MI_Kalkaska,WA_Yakima,5,Derived Variables
+MI_Kent,UT_Davis,10,Derived Variables
+MI_Kent,WA_Benton,7,Derived Variables
+MI_Kent,WA_Franklin,5,Derived Variables
+MI_Lapeer,UT_Davis,8,Derived Variables
+MI_Lapeer,WA_Benton,7,Derived Variables
+MI_Lapeer,WA_Franklin,5,Derived Variables
+MI_Lapeer,OR_Morrow,5,Derived Variables
+MI_Leelanau,OR_Josephine,9,Derived Variables
+MI_Leelanau,OR_Jackson,8,Derived Variables
+MI_Leelanau,OR_Umatilla,6,Derived Variables
+MI_Leelanau,CA_El Dorado,6,Derived Variables
+MI_Livingston,UT_Davis,5,Derived Variables
+MI_Macomb,UT_Davis,7,Derived Variables
+MI_Mason,OR_Josephine,10,Derived Variables
+MI_Mason,OR_Jackson,8,Derived Variables
+MI_Mason,CA_El Dorado,6,Derived Variables
+MI_Mecosta,UT_Davis,10,Derived Variables
+MI_Mecosta,WA_Franklin,9,Derived Variables
+MI_Mecosta,OR_Morrow,6,Derived Variables
+MI_Mecosta,WA_Benton,6,Derived Variables
+MI_Montcalm,UT_Davis,12,Derived Variables
+MI_Montcalm,WA_Benton,9,Derived Variables
+MI_Montcalm,WA_Franklin,5,Derived Variables
+MI_Montcalm,OR_Morrow,5,Derived Variables
+MI_Montcalm,ID_Canyon,5,Derived Variables
+MI_Muskegon,OR_Josephine,9,Derived Variables
+MI_Muskegon,OR_Jackson,8,Derived Variables
+MI_Muskegon,OR_Morrow,6,Derived Variables
+MI_Muskegon,UT_Davis,6,Derived Variables
+MI_Muskegon,WA_Benton,5,Derived Variables
+MI_Newaygo,UT_Davis,10,Derived Variables
+MI_Newaygo,WA_Franklin,7,Derived Variables
+MI_Newaygo,OR_Morrow,7,Derived Variables
+MI_Newaygo,OR_Jackson,6,Derived Variables
+MI_Newaygo,WA_Benton,6,Derived Variables
+MI_Newaygo,WA_Yakima,5,Derived Variables
+MI_Oceana,OR_Jackson,8,Derived Variables
+MI_Oceana,OR_Josephine,8,Derived Variables
+MI_Oceana,OR_Morrow,7,Derived Variables
+MI_Oceana,OR_Umatilla,6,Derived Variables
+MI_Oceana,WA_Benton,6,Derived Variables
+MI_Oceana,WA_Walla Walla,5,Derived Variables
+MI_Otsego,OR_Umatilla,8,Derived Variables
+MI_Otsego,OR_Jackson,8,Derived Variables
+MI_Otsego,WA_Yakima,5,Derived Variables
+MI_Ottawa,OR_Josephine,8,Derived Variables
+MI_Ottawa,UT_Davis,8,Derived Variables
+MI_Ottawa,WA_Benton,7,Derived Variables
+MI_Presque Isle,OR_Umatilla,9,Derived Variables
+MI_Presque Isle,OR_Josephine,8,Derived Variables
+MI_Presque Isle,OR_Jackson,6,Derived Variables
+MI_Saginaw,UT_Davis,8,Derived Variables
+MI_Saginaw,WA_Benton,8,Derived Variables
+MI_Saginaw,OR_Morrow,8,Derived Variables
+MI_Saginaw,WA_Franklin,7,Derived Variables
+MI_Tuscola,WA_Benton,12,Derived Variables
+MI_Tuscola,OR_Morrow,10,Derived Variables
+MI_Tuscola,UT_Davis,9,Derived Variables
+MI_Tuscola,WA_Walla Walla,9,Derived Variables
+MI_Tuscola,WA_Franklin,7,Derived Variables
+MI_Tuscola,OR_Josephine,7,Derived Variables
+MN_Benton,ID_Canyon,6,Derived Variables
+MN_Benton,ID_Payette,5,Derived Variables
+MN_Chisago,ID_Canyon,6,Derived Variables
+MN_Clay,ID_Payette,9,Derived Variables
+MN_Clay,ID_Canyon,6,Derived Variables
+MN_Meeker,ID_Canyon,5,Derived Variables
+MN_Morrison,ID_Canyon,6,Derived Variables
+MN_Morrison,ID_Payette,6,Derived Variables
+MN_Polk,ID_Canyon,5,Derived Variables
+MN_Pope,ID_Payette,5,Derived Variables
+MN_Pope,ID_Canyon,5,Derived Variables
+MN_Sherburne,ID_Canyon,6,Derived Variables
+MN_Sherburne,ID_Payette,6,Derived Variables
+MN_Sherburne,UT_Davis,5,Derived Variables
+MN_Stearns,ID_Canyon,6,Derived Variables
+MN_Stearns,ID_Payette,6,Derived Variables
+MN_Todd,ID_Canyon,6,Derived Variables
+MN_Wabasha,ID_Canyon,5,Derived Variables
+MN_Washington,ID_Canyon,6,Derived Variables
+MN_Wright,ID_Canyon,5,Derived Variables
+MO_Dunklin,TX_Collin,6,Derived Variables
+MO_Dunklin,TX_Ellis,5,Derived Variables
+MS_Calhoun,TX_Bell,8,Derived Variables
+MS_Calhoun,TX_Williamson,6,Derived Variables
+MS_Calhoun,TX_Milam,5,Derived Variables
+MS_Chickasaw,TX_Bell,8,Derived Variables
+MS_Chickasaw,TX_Williamson,6,Derived Variables
+MS_Greene,TX_Frio,8,Derived Variables
+MS_Greene,TX_Fayette,8,Derived Variables
+MS_Greene,TX_Wilson,7,Derived Variables
+MS_Greene,TX_Gonzales,7,Derived Variables
+MS_Greene,TX_Atascosa,6,Derived Variables
+MS_Greene,TX_Maverick,5,Derived Variables
+MS_Greene,TX_Washington,5,Derived Variables
+MS_Lamar,TX_Atascosa,9,Derived Variables
+MS_Lamar,TX_Frio,9,Derived Variables
+MS_Lamar,TX_Maverick,7,Derived Variables
+MS_Lamar,TX_Zavala,7,Derived Variables
+MS_Lamar,TX_Wilson,6,Derived Variables
+MS_Wayne,TX_Fayette,7,Derived Variables
+MS_Wayne,TX_Washington,6,Derived Variables
+MS_Wayne,TX_Frio,5,Derived Variables
+MS_Wayne,TX_Wilson,5,Derived Variables
+MS_Wayne,TX_Gonzales,5,Derived Variables
+MS_Webster,TX_Bell,7,Derived Variables
+MS_Webster,TX_Milam,6,Derived Variables
+MS_Webster,TX_Williamson,5,Derived Variables
+MS_Yalobusha,TX_Bell,8,Derived Variables
+MS_Yalobusha,TX_Williamson,5,Derived Variables
+MS_Yalobusha,TX_Navarro,5,Derived Variables
+MT_Broadwater,ID_Canyon,8,Derived Variables
+MT_Broadwater,ID_Payette,7,Derived Variables
+MT_Broadwater,ID_Gooding,6,Derived Variables
+MT_Broadwater,ID_Ada,5,Derived Variables
+MT_Gallatin,ID_Canyon,7,Derived Variables
+MT_Gallatin,ID_Payette,7,Derived Variables
+MT_Gallatin,ID_Gooding,7,Derived Variables
+MT_Gallatin,ID_Ada,6,Derived Variables
+MT_Gallatin,ID_Washington,6,Derived Variables
+MT_Gallatin,OR_Malheur,5,Derived Variables
+MT_Lake,WA_Franklin,6,Derived Variables
+MT_Lake,UT_Davis,6,Derived Variables
+MT_Lake,WA_Walla Walla,5,Derived Variables
+MT_Lake,WA_Benton,5,Derived Variables
+MT_Lake,OR_Morrow,5,Derived Variables
+NC_Bertie,TX_Williamson,5,Derived Variables
+NC_Bladen,TX_Bell,7,Derived Variables
+NC_Bladen,TX_Williamson,5,Derived Variables
+NC_Catawba,TX_Collin,6,Derived Variables
+NC_Chowan,TX_Williamson,9,Derived Variables
+NC_Chowan,TX_Bell,7,Derived Variables
+NC_Columbus,TX_Bell,5,Derived Variables
+NC_Columbus,TX_Madison,5,Derived Variables
+NC_Columbus,TX_Bastrop,5,Derived Variables
+NC_Cumberland,TX_Bell,7,Derived Variables
+NC_Cumberland,TX_Williamson,5,Derived Variables
+NC_Duplin,TX_Bell,7,Derived Variables
+NC_Duplin,TX_Williamson,6,Derived Variables
+NC_Edgecombe,TX_Ellis,6,Derived Variables
+NC_Greene,TX_Bell,7,Derived Variables
+NC_Greene,TX_Williamson,6,Derived Variables
+NC_Halifax,TX_Collin,5,Derived Variables
+NC_Harnett,TX_Ellis,6,Derived Variables
+NC_Hertford,TX_Ellis,5,Derived Variables
+NC_Hertford,TX_Collin,5,Derived Variables
+NC_Hyde,TX_Williamson,7,Derived Variables
+NC_Hyde,TX_Travis,6,Derived Variables
+NC_Johnston,TX_Ellis,5,Derived Variables
+NC_Lenoir,TX_Bell,7,Derived Variables
+NC_Lenoir,TX_Williamson,6,Derived Variables
+NC_Martin,TX_Ellis,6,Derived Variables
+NC_Pasquotank,TX_Williamson,6,Derived Variables
+NC_Pasquotank,TX_Bell,6,Derived Variables
+NC_Pender,TX_Williamson,6,Derived Variables
+NC_Pender,TX_Robertson,5,Derived Variables
+NC_Pender,TX_Bastrop,5,Derived Variables
+NC_Pitt,TX_Bell,6,Derived Variables
+NC_Pitt,TX_Williamson,6,Derived Variables
+NC_Pitt,TX_Ellis,5,Derived Variables
+NC_Robeson,TX_Williamson,6,Derived Variables
+NC_Robeson,TX_Bell,6,Derived Variables
+NC_Rowan,TX_Wise,5,Derived Variables
+NC_Sampson,TX_Bell,6,Derived Variables
+NC_Sampson,TX_Williamson,5,Derived Variables
+NC_Washington,TX_Williamson,9,Derived Variables
+NC_Washington,TX_Bell,8,Derived Variables
+NC_Wayne,TX_Williamson,6,Derived Variables
+NC_Wayne,TX_Bell,6,Derived Variables
+NC_Wilson,TX_Ellis,5,Derived Variables
+ND_Grand Forks,ID_Payette,5,Derived Variables
+ND_Grand Forks,ID_Canyon,5,Derived Variables
+ND_Kidder,ID_Payette,5,Derived Variables
+ND_Traill,ID_Payette,7,Derived Variables
+ND_Traill,ID_Canyon,5,Derived Variables
+ND_Walsh,ID_Payette,5,Derived Variables
+ND_Williams,ID_Payette,7,Derived Variables
+NE_Chase,KS_Grant,5,Derived Variables
+NE_Morrill,KS_Grant,6,Derived Variables
+NH_Hillsborough,UT_Davis,5,Derived Variables
+NH_Hillsborough,WA_Franklin,5,Derived Variables
+NH_Hillsborough,OR_Morrow,5,Derived Variables
+NJ_Atlantic,MO_Dunklin,5,Derived Variables
+NJ_Burlington,MO_Dunklin,5,Derived Variables
+NJ_Gloucester,CA_Shasta,7,Derived Variables
+NJ_Hunterdon,CA_Shasta,5,Derived Variables
+NJ_Mercer,CA_Shasta,6,Derived Variables
+NJ_Monmouth,CA_Shasta,6,Derived Variables
+NJ_Monmouth,MO_Dunklin,5,Derived Variables
+NM_Chaves,TX_Midland,6,Derived Variables
+NM_Dona Ana,TX_Midland,5,Derived Variables
+NM_Lea,TX_Midland,5,Derived Variables
+NM_Luna,TX_Midland,7,Derived Variables
+NM_Otero,TX_Midland,7,Derived Variables
+NM_Roosevelt,TX_El Paso,5,Derived Variables
+NM_Sierra,TX_Midland,10,Derived Variables
+NM_Sierra,TX_El Paso,7,Derived Variables
+NM_Valencia,NM_Otero,5,Derived Variables
+NY_Clinton,OR_Josephine,6,Derived Variables
+NY_Erie,CA_El Dorado,6,Derived Variables
+NY_Erie,NJ_Salem,6,Derived Variables
+NY_Erie,NJ_Gloucester,5,Derived Variables
+NY_Monroe,OR_Josephine,6,Derived Variables
+NY_Monroe,WA_Benton,5,Derived Variables
+NY_Monroe,WA_Walla Walla,5,Derived Variables
+NY_Niagara,CA_El Dorado,5,Derived Variables
+NY_Niagara,OR_Josephine,5,Derived Variables
+NY_Niagara,WA_Benton,5,Derived Variables
+NY_Orleans,WA_Walla Walla,5,Derived Variables
+NY_Orleans,WA_Benton,5,Derived Variables
+NY_Oswego,CA_El Dorado,5,Derived Variables
+NY_Oswego,NJ_Salem,5,Derived Variables
+NY_Oswego,NJ_Gloucester,5,Derived Variables
+NY_Tompkins,CA_El Dorado,5,Derived Variables
+NY_Washington,UT_Davis,5,Derived Variables
+NY_Wayne,OR_Josephine,5,Derived Variables
+OH_Ottawa,CA_Shasta,9,Derived Variables
+OK_Atoka,TX_Milam,8,Derived Variables
+OK_Atoka,TX_Bell,7,Derived Variables
+OK_Atoka,TX_Williamson,7,Derived Variables
+OK_Atoka,TX_Ellis,5,Derived Variables
+OK_Atoka,TX_Travis,5,Derived Variables
+OK_Bryan,TX_Milam,8,Derived Variables
+OK_Bryan,TX_Bastrop,7,Derived Variables
+OK_Bryan,TX_Travis,6,Derived Variables
+OK_Bryan,TX_Bell,5,Derived Variables
+OK_Bryan,TX_Williamson,5,Derived Variables
+OK_Bryan,TX_Guadalupe,5,Derived Variables
+OK_Carter,TX_Guadalupe,8,Derived Variables
+OK_Carter,TX_Bell,6,Derived Variables
+OK_Carter,TX_Uvalde,6,Derived Variables
+OK_Carter,TX_Milam,6,Derived Variables
+OK_Carter,TX_Williamson,5,Derived Variables
+OK_Carter,TX_Bastrop,5,Derived Variables
+OK_Cherokee,TX_Ellis,7,Derived Variables
+OK_Choctaw,TX_Bastrop,8,Derived Variables
+OK_Choctaw,TX_Milam,8,Derived Variables
+OK_Choctaw,TX_Bell,6,Derived Variables
+OK_Choctaw,TX_Travis,5,Derived Variables
+OK_Coal,TX_Bell,8,Derived Variables
+OK_Coal,TX_Milam,8,Derived Variables
+OK_Coal,TX_Williamson,7,Derived Variables
+OK_Coal,TX_Ellis,6,Derived Variables
+OK_Coal,TX_Travis,6,Derived Variables
+OK_Creek,TX_Ellis,9,Derived Variables
+OK_Garvin,TX_Ellis,10,Derived Variables
+OK_Garvin,TX_Bell,8,Derived Variables
+OK_Hughes,TX_Bell,8,Derived Variables
+OK_Hughes,TX_Williamson,7,Derived Variables
+OK_Hughes,TX_Ellis,6,Derived Variables
+OK_Jefferson,TX_Bastrop,9,Derived Variables
+OK_Jefferson,TX_Travis,6,Derived Variables
+OK_Jefferson,TX_Milam,6,Derived Variables
+OK_Jefferson,TX_Bell,5,Derived Variables
+OK_Lincoln,TX_Ellis,11,Derived Variables
+OK_Marshall,TX_Bastrop,9,Derived Variables
+OK_Marshall,TX_Milam,7,Derived Variables
+OK_Marshall,TX_Bell,5,Derived Variables
+OK_Marshall,TX_Guadalupe,5,Derived Variables
+OK_Marshall,TX_Travis,5,Derived Variables
+OK_Marshall,TX_Williamson,5,Derived Variables
+OK_Muskogee,TX_Ellis,11,Derived Variables
+OK_Muskogee,TX_Bell,5,Derived Variables
+OK_Oklahoma,TX_Ellis,10,Derived Variables
+OK_Okmulgee,TX_Ellis,9,Derived Variables
+OK_Okmulgee,TX_Collin,5,Derived Variables
+OK_Osage,TX_Ellis,5,Derived Variables
+OK_Pittsburg,TX_Bell,8,Derived Variables
+OK_Pittsburg,TX_Ellis,7,Derived Variables
+OK_Pittsburg,TX_Williamson,7,Derived Variables
+OK_Pittsburg,TX_Milam,6,Derived Variables
+OK_Pottawatomie,TX_Ellis,9,Derived Variables
+OK_Pottawatomie,TX_Bell,7,Derived Variables
+OK_Pottawatomie,TX_Navarro,5,Derived Variables
+OK_Rogers,TX_Ellis,6,Derived Variables
+OK_Seminole,TX_Bell,9,Derived Variables
+OK_Seminole,TX_Ellis,6,Derived Variables
+OK_Seminole,TX_Williamson,6,Derived Variables
+OK_Stephens,TX_Bell,9,Derived Variables
+OK_Stephens,TX_Ellis,6,Derived Variables
+OK_Stephens,TX_Williamson,6,Derived Variables
+OK_Stephens,TX_Milam,6,Derived Variables
+OK_Stephens,TX_Bosque,5,Derived Variables
+OK_Tulsa,TX_Ellis,7,Derived Variables
+OR_Baker,ID_Canyon,10,Derived Variables
+OR_Baker,ID_Ada,9,Derived Variables
+OR_Baker,ID_Payette,7,Derived Variables
+OR_Benton,CA_Santa Clara,9,Derived Variables
+OR_Benton,CA_Alameda,9,Derived Variables
+OR_Benton,CA_San Benito,9,Derived Variables
+OR_Benton,CA_El Dorado,8,Derived Variables
+OR_Benton,CA_Napa,7,Derived Variables
+OR_Benton,CA_Sonoma,7,Derived Variables
+OR_Benton,OR_Douglas,7,Derived Variables
+OR_Benton,OR_Multnomah,5,Derived Variables
+OR_Benton,OR_Clackamas,5,Derived Variables
+OR_Clackamas,CA_Santa Clara,12,Derived Variables
+OR_Clackamas,CA_Alameda,10,Derived Variables
+OR_Clackamas,CA_Napa,9,Derived Variables
+OR_Clackamas,CA_Sonoma,9,Derived Variables
+OR_Clackamas,CA_San Benito,8,Derived Variables
+OR_Clackamas,OR_Multnomah,7,Derived Variables
+OR_Clackamas,OR_Douglas,6,Derived Variables
+OR_Coos,CA_Marin,17,Derived Variables
+OR_Coos,OR_Curry,16,Derived Variables
+OR_Coos,CA_San Mateo,16,Derived Variables
+OR_Coos,CA_Santa Barbara,10,Derived Variables
+OR_Coos,OR_Coos,7,Derived Variables
+OR_Curry,CA_Marin,17,Derived Variables
+OR_Curry,CA_Santa Barbara,15,Derived Variables
+OR_Curry,CA_San Mateo,12,Derived Variables
+OR_Curry,OR_Curry,8,Derived Variables
+OR_Douglas,CA_El Dorado,12,Derived Variables
+OR_Douglas,CA_Napa,10,Derived Variables
+OR_Douglas,CA_San Benito,9,Derived Variables
+OR_Douglas,CA_Santa Clara,8,Derived Variables
+OR_Douglas,CA_Contra Costa,7,Derived Variables
+OR_Douglas,OR_Douglas,6,Derived Variables
+OR_Hood River,OR_Josephine,7,Derived Variables
+OR_Hood River,WA_Lewis,5,Derived Variables
+OR_Hood River,WA_Clark,5,Derived Variables
+OR_Jefferson,UT_Davis,14,Derived Variables
+OR_Jefferson,WA_Benton,11,Derived Variables
+OR_Jefferson,WA_Franklin,9,Derived Variables
+OR_Jefferson,ID_Canyon,9,Derived Variables
+OR_Jefferson,OR_Morrow,7,Derived Variables
+OR_Jefferson,UT_Weber,6,Derived Variables
+OR_Jefferson,WA_Walla Walla,5,Derived Variables
+OR_Jefferson,ID_Payette,5,Derived Variables
+OR_Josephine,CA_Calaveras,7,Derived Variables
+OR_Josephine,CA_Amador,7,Derived Variables
+OR_Josephine,CA_El Dorado,6,Derived Variables
+OR_Josephine,CA_Nevada,5,Derived Variables
+OR_Klamath,UT_Utah,8,Derived Variables
+OR_Klamath,CO_Mesa,6,Derived Variables
+OR_Klamath,ID_Canyon,5,Derived Variables
+OR_Lane,CA_Napa,9,Derived Variables
+OR_Lane,CA_Santa Clara,8,Derived Variables
+OR_Lane,OR_Yamhill,8,Derived Variables
+OR_Lane,CA_San Benito,8,Derived Variables
+OR_Lane,OR_Douglas,7,Derived Variables
+OR_Lane,CA_Alameda,7,Derived Variables
+OR_Lane,OR_Multnomah,6,Derived Variables
+OR_Lane,OR_Clackamas,5,Derived Variables
+OR_Lane,OR_Polk,5,Derived Variables
+OR_Lane,CA_El Dorado,5,Derived Variables
+OR_Linn,CA_Napa,9,Derived Variables
+OR_Linn,CA_Santa Clara,8,Derived Variables
+OR_Linn,CA_Alameda,8,Derived Variables
+OR_Linn,CA_San Benito,8,Derived Variables
+OR_Linn,CA_El Dorado,8,Derived Variables
+OR_Linn,OR_Douglas,7,Derived Variables
+OR_Linn,CA_Sonoma,6,Derived Variables
+OR_Linn,OR_Multnomah,5,Derived Variables
+OR_Malheur,ID_Payette,11,Derived Variables
+OR_Malheur,ID_Canyon,9,Derived Variables
+OR_Malheur,UT_Davis,5,Derived Variables
+OR_Marion,CA_Santa Clara,11,Derived Variables
+OR_Marion,CA_Napa,9,Derived Variables
+OR_Marion,CA_Alameda,8,Derived Variables
+OR_Marion,CA_San Benito,8,Derived Variables
+OR_Marion,CA_Sonoma,8,Derived Variables
+OR_Marion,CA_El Dorado,7,Derived Variables
+OR_Marion,OR_Douglas,7,Derived Variables
+OR_Morrow,WA_Walla Walla,7,Derived Variables
+OR_Morrow,WA_Benton,7,Derived Variables
+OR_Morrow,OR_Josephine,5,Derived Variables
+OR_Multnomah,CA_Santa Clara,13,Derived Variables
+OR_Multnomah,CA_Alameda,13,Derived Variables
+OR_Multnomah,CA_Napa,9,Derived Variables
+OR_Multnomah,CA_San Benito,9,Derived Variables
+OR_Multnomah,CA_Sonoma,8,Derived Variables
+OR_Multnomah,CA_Contra Costa,5,Derived Variables
+OR_Multnomah,OR_Douglas,5,Derived Variables
+OR_Multnomah,CA_El Dorado,5,Derived Variables
+OR_Polk,CA_El Dorado,11,Derived Variables
+OR_Polk,CA_Napa,9,Derived Variables
+OR_Polk,CA_Santa Clara,8,Derived Variables
+OR_Polk,CA_San Benito,8,Derived Variables
+OR_Polk,OR_Douglas,8,Derived Variables
+OR_Polk,CA_Alameda,6,Derived Variables
+OR_Polk,OR_Multnomah,5,Derived Variables
+OR_Umatilla,WA_Walla Walla,15,Derived Variables
+OR_Umatilla,WA_Benton,12,Derived Variables
+OR_Umatilla,UT_Davis,8,Derived Variables
+OR_Umatilla,OR_Josephine,8,Derived Variables
+OR_Umatilla,OR_Morrow,7,Derived Variables
+OR_Washington,CA_El Dorado,10,Derived Variables
+OR_Washington,CA_Sonoma,9,Derived Variables
+OR_Washington,CA_Santa Clara,8,Derived Variables
+OR_Washington,CA_Alameda,8,Derived Variables
+OR_Washington,OR_Douglas,8,Derived Variables
+OR_Washington,CA_San Benito,8,Derived Variables
+OR_Washington,OR_Multnomah,7,Derived Variables
+OR_Washington,OR_Polk,6,Derived Variables
+OR_Washington,OR_Yamhill,5,Derived Variables
+OR_Yamhill,CA_Santa Clara,11,Derived Variables
+OR_Yamhill,CA_El Dorado,10,Derived Variables
+OR_Yamhill,CA_Napa,8,Derived Variables
+OR_Yamhill,CA_San Benito,8,Derived Variables
+OR_Yamhill,CA_Alameda,8,Derived Variables
+OR_Yamhill,OR_Douglas,7,Derived Variables
+OR_Yamhill,OR_Polk,5,Derived Variables
+OR_Yamhill,CA_Sonoma,5,Derived Variables
+PA_Adams,MO_Dunklin,5,Derived Variables
+PA_Allegheny,MO_Dunklin,5,Derived Variables
+PA_Berks,CA_Shasta,6,Derived Variables
+PA_Bucks,CA_Shasta,7,Derived Variables
+PA_Cumberland,CA_Shasta,9,Derived Variables
+PA_Dauphin,CA_Shasta,6,Derived Variables
+PA_Franklin,CA_Shasta,6,Derived Variables
+PA_Lancaster,CA_Shasta,5,Derived Variables
+PA_Lancaster,MO_Dunklin,5,Derived Variables
+PA_York,CA_Shasta,6,Derived Variables
+PA_York,MO_Dunklin,6,Derived Variables
+SC_Aiken,TX_Travis,5,Derived Variables
+SC_Aiken,TX_Bastrop,5,Derived Variables
+SC_Aiken,TX_Milam,5,Derived Variables
+SC_Bamberg,TX_Uvalde,7,Derived Variables
+SC_Bamberg,TX_Wilson,6,Derived Variables
+SC_Bamberg,TX_Guadalupe,5,Derived Variables
+SC_Barnwell,TX_Uvalde,9,Derived Variables
+SC_Barnwell,TX_Bastrop,6,Derived Variables
+SC_Beaufort,TX_Zavala,9,Derived Variables
+SC_Beaufort,TX_Frio,7,Derived Variables
+SC_Beaufort,TX_Atascosa,7,Derived Variables
+SC_Beaufort,TX_Maverick,7,Derived Variables
+SC_Clarendon,TX_Bastrop,7,Derived Variables
+SC_Clarendon,TX_Uvalde,6,Derived Variables
+SC_Clarendon,TX_Guadalupe,5,Derived Variables
+SC_Clarendon,TX_Caldwell,5,Derived Variables
+SC_Clarendon,TX_Travis,5,Derived Variables
+SC_Clarendon,TX_Washington,5,Derived Variables
+SC_Greenville,TX_Lampasas,6,Derived Variables
+SC_Lexington,TX_Travis,7,Derived Variables
+SC_Lexington,TX_Milam,7,Derived Variables
+SC_Lexington,TX_Bastrop,6,Derived Variables
+SC_Orangeburg,TX_Bastrop,6,Derived Variables
+SC_Orangeburg,TX_Uvalde,5,Derived Variables
+SC_Orangeburg,TX_Wilson,5,Derived Variables
+SC_Orangeburg,TX_Fayette,5,Derived Variables
+SC_Orangeburg,TX_Guadalupe,5,Derived Variables
+SC_Saluda,TX_Bell,5,Derived Variables
+SC_Sumter,TX_Milam,6,Derived Variables
+SC_Sumter,TX_Travis,5,Derived Variables
+SC_Sumter,TX_Bastrop,5,Derived Variables
+SC_Williamsburg,TX_Bastrop,8,Derived Variables
+SC_Williamsburg,TX_Milam,7,Derived Variables
+SC_Williamsburg,TX_Washington,6,Derived Variables
+SC_Williamsburg,TX_Uvalde,5,Derived Variables
+TN_Bledsoe,AR_Jefferson,5,Derived Variables
+TN_Dyer,TX_Ellis,6,Derived Variables
+TX_Atascosa,CA_Imperial,15,Derived Variables
+TX_Atascosa,AZ_Yuma,15,Derived Variables
+TX_Austin,AZ_Yuma,12,Derived Variables
+TX_Austin,CA_Imperial,10,Derived Variables
+TX_Austin,AZ_Maricopa,8,Derived Variables
+TX_Bastrop,AZ_Yuma,11,Derived Variables
+TX_Bastrop,CA_Imperial,9,Derived Variables
+TX_Bastrop,TX_Maverick,5,Derived Variables
+TX_Bell,AZ_Maricopa,8,Derived Variables
+TX_Bell,TX_Maverick,7,Derived Variables
+TX_Bell,TX_Frio,5,Derived Variables
+TX_Bell,AZ_Yuma,5,Derived Variables
+TX_Bexar,CA_Imperial,12,Derived Variables
+TX_Bexar,AZ_Yuma,12,Derived Variables
+TX_Bosque,TX_Frio,12,Derived Variables
+TX_Bosque,TX_Maverick,11,Derived Variables
+TX_Bowie,TX_Milam,7,Derived Variables
+TX_Bowie,TX_Bastrop,6,Derived Variables
+TX_Bowie,TX_Frio,5,Derived Variables
+TX_Brazoria,TX_Hidalgo,10,Derived Variables
+TX_Brazoria,CA_Imperial,10,Derived Variables
+TX_Brazoria,AZ_Yuma,9,Derived Variables
+TX_Brazos,AZ_Yuma,11,Derived Variables
+TX_Brazos,CA_Imperial,9,Derived Variables
+TX_Brazos,AZ_Maricopa,6,Derived Variables
+TX_Brazos,TX_Maverick,5,Derived Variables
+TX_Brown,TX_Frio,8,Derived Variables
+TX_Brown,TX_Zavala,8,Derived Variables
+TX_Brown,TX_Wilson,7,Derived Variables
+TX_Brown,TX_Atascosa,7,Derived Variables
+TX_Brown,TX_Bastrop,5,Derived Variables
+TX_Burleson,AZ_Yuma,11,Derived Variables
+TX_Burleson,CA_Imperial,8,Derived Variables
+TX_Burleson,AZ_Maricopa,6,Derived Variables
+TX_Burleson,TX_Maverick,5,Derived Variables
+TX_Caldwell,AZ_Yuma,9,Derived Variables
+TX_Caldwell,CA_Imperial,8,Derived Variables
+TX_Caldwell,TX_Maverick,7,Derived Variables
+TX_Clay,TX_Bastrop,8,Derived Variables
+TX_Clay,TX_Milam,6,Derived Variables
+TX_Clay,AZ_Pinal,5,Derived Variables
+TX_Collin,AZ_Pinal,9,Derived Variables
+TX_Collin,TX_Frio,8,Derived Variables
+TX_Collin,TX_Maverick,8,Derived Variables
+TX_Collin,TX_Zavala,7,Derived Variables
+TX_Collin,TX_Travis,6,Derived Variables
+TX_Collin,TX_Bastrop,5,Derived Variables
+TX_Colorado,AZ_Yuma,11,Derived Variables
+TX_Colorado,CA_Imperial,9,Derived Variables
+TX_Colorado,AZ_Maricopa,6,Derived Variables
+TX_Colorado,TX_Maverick,5,Derived Variables
+TX_Comanche,TX_Frio,9,Derived Variables
+TX_Comanche,TX_Wilson,7,Derived Variables
+TX_Comanche,TX_Zavala,6,Derived Variables
+TX_Comanche,TX_Atascosa,5,Derived Variables
+TX_Comanche,TX_Bastrop,5,Derived Variables
+TX_Cooke,TX_Bastrop,9,Derived Variables
+TX_Cooke,TX_Fayette,7,Derived Variables
+TX_Cooke,TX_Bell,6,Derived Variables
+TX_Cooke,TX_Milam,6,Derived Variables
+TX_Coryell,TX_Maverick,11,Derived Variables
+TX_Coryell,TX_Frio,8,Derived Variables
+TX_Eastland,TX_Frio,9,Derived Variables
+TX_Eastland,TX_Wilson,7,Derived Variables
+TX_Eastland,TX_Zavala,6,Derived Variables
+TX_Eastland,TX_Bastrop,6,Derived Variables
+TX_El Paso,TX_Uvalde,9,Derived Variables
+TX_El Paso,AZ_Pinal,6,Derived Variables
+TX_Ellis,TX_Maverick,10,Derived Variables
+TX_Ellis,TX_Frio,9,Derived Variables
+TX_Ellis,AZ_Maricopa,7,Derived Variables
+TX_Erath,TX_Frio,9,Derived Variables
+TX_Erath,TX_Zavala,8,Derived Variables
+TX_Erath,TX_Atascosa,7,Derived Variables
+TX_Erath,TX_Maverick,6,Derived Variables
+TX_Erath,TX_Bastrop,6,Derived Variables
+TX_Fannin,TX_Bell,7,Derived Variables
+TX_Fannin,TX_Milam,6,Derived Variables
+TX_Fannin,TX_Bastrop,6,Derived Variables
+TX_Fannin,TX_Travis,6,Derived Variables
+TX_Fannin,TX_Uvalde,5,Derived Variables
+TX_Fayette,AZ_Yuma,12,Derived Variables
+TX_Fayette,CA_Imperial,11,Derived Variables
+TX_Fort Bend,CA_Imperial,14,Derived Variables
+TX_Fort Bend,AZ_Yuma,14,Derived Variables
+TX_Frio,CA_Imperial,15,Derived Variables
+TX_Frio,AZ_Yuma,15,Derived Variables
+TX_Gaines,TX_Bell,8,Derived Variables
+TX_Gaines,TX_Milam,6,Derived Variables
+TX_Gaines,TX_Williamson,5,Derived Variables
+TX_Gillespie,TX_Maverick,11,Derived Variables
+TX_Gillespie,TX_Frio,9,Derived Variables
+TX_Gillespie,TX_Zavala,8,Derived Variables
+TX_Glasscock,TX_Bastrop,6,Derived Variables
+TX_Glasscock,TX_Travis,6,Derived Variables
+TX_Glasscock,TX_Frio,6,Derived Variables
+TX_Glasscock,TX_Milam,5,Derived Variables
+TX_Glasscock,TX_Maverick,5,Derived Variables
+TX_Gonzales,AZ_Yuma,12,Derived Variables
+TX_Gonzales,CA_Imperial,12,Derived Variables
+TX_Grayson,TX_Williamson,6,Derived Variables
+TX_Grayson,AZ_Pinal,6,Derived Variables
+TX_Grayson,TX_Milam,6,Derived Variables
+TX_Grayson,TX_Bell,5,Derived Variables
+TX_Grayson,TX_Travis,5,Derived Variables
+TX_Grayson,TX_Bastrop,5,Derived Variables
+TX_Guadalupe,AZ_Yuma,12,Derived Variables
+TX_Guadalupe,CA_Imperial,11,Derived Variables
+TX_Hamilton,TX_Frio,11,Derived Variables
+TX_Hamilton,TX_Maverick,11,Derived Variables
+TX_Hamilton,TX_Zavala,7,Derived Variables
+TX_Hartley,NM_Otero,6,Derived Variables
+TX_Henderson,TX_Maverick,9,Derived Variables
+TX_Henderson,TX_Frio,9,Derived Variables
+TX_Henderson,TX_Zavala,5,Derived Variables
+TX_Henderson,AZ_Maricopa,5,Derived Variables
+TX_Hunt,AZ_Pinal,6,Derived Variables
+TX_Hunt,TX_Milam,6,Derived Variables
+TX_Hunt,TX_Frio,6,Derived Variables
+TX_Hunt,TX_Bastrop,6,Derived Variables
+TX_Hunt,TX_Williamson,5,Derived Variables
+TX_Hunt,TX_Washington,5,Derived Variables
+TX_Lamar,TX_Bell,7,Derived Variables
+TX_Lamar,TX_Milam,6,Derived Variables
+TX_Lamar,TX_Travis,6,Derived Variables
+TX_Lamar,TX_Bastrop,5,Derived Variables
+TX_Lampasas,TX_Maverick,11,Derived Variables
+TX_Lampasas,TX_Frio,10,Derived Variables
+TX_Lampasas,TX_Zavala,5,Derived Variables
+TX_Lavaca,AZ_Yuma,14,Derived Variables
+TX_Lavaca,CA_Imperial,13,Derived Variables
+TX_Lee,AZ_Yuma,10,Derived Variables
+TX_Lee,CA_Imperial,8,Derived Variables
+TX_Lee,TX_Maverick,6,Derived Variables
+TX_Lubbock,TX_Bosque,5,Derived Variables
+TX_Madison,TX_Maverick,11,Derived Variables
+TX_Matagorda,TX_Hidalgo,14,Derived Variables
+TX_Matagorda,CA_Imperial,13,Derived Variables
+TX_Matagorda,AZ_Yuma,12,Derived Variables
+TX_Maverick,CA_Imperial,15,Derived Variables
+TX_Maverick,AZ_Yuma,15,Derived Variables
+TX_Medina,AZ_Yuma,12,Derived Variables
+TX_Medina,CA_Imperial,11,Derived Variables
+TX_Midland,TX_Frio,9,Derived Variables
+TX_Midland,TX_Bastrop,8,Derived Variables
+TX_Midland,TX_Maverick,7,Derived Variables
+TX_Midland,AZ_Pinal,6,Derived Variables
+TX_Midland,TX_Milam,5,Derived Variables
+TX_Milam,AZ_Yuma,11,Derived Variables
+TX_Milam,CA_Imperial,8,Derived Variables
+TX_Milam,TX_Maverick,5,Derived Variables
+TX_Montague,TX_Wilson,7,Derived Variables
+TX_Montague,TX_Bell,6,Derived Variables
+TX_Montague,TX_Milam,6,Derived Variables
+TX_Montague,TX_Bastrop,5,Derived Variables
+TX_Montague,TX_Fayette,5,Derived Variables
+TX_Navarro,TX_Frio,9,Derived Variables
+TX_Navarro,AZ_Maricopa,8,Derived Variables
+TX_Navarro,TX_Maverick,8,Derived Variables
+TX_Navarro,TX_Zavala,5,Derived Variables
+TX_Palo Pinto,TX_Maverick,9,Derived Variables
+TX_Palo Pinto,TX_Frio,9,Derived Variables
+TX_Palo Pinto,TX_Bastrop,6,Derived Variables
+TX_Palo Pinto,TX_Fayette,5,Derived Variables
+TX_Parker,TX_Frio,9,Derived Variables
+TX_Parker,TX_Maverick,8,Derived Variables
+TX_Parker,TX_Atascosa,7,Derived Variables
+TX_Parker,TX_Milam,5,Derived Variables
+TX_Parker,TX_Bastrop,5,Derived Variables
+TX_Pecos,TX_Frio,9,Derived Variables
+TX_Pecos,TX_Uvalde,7,Derived Variables
+TX_Pecos,TX_Maverick,7,Derived Variables
+TX_Pecos,TX_Zavala,7,Derived Variables
+TX_Pecos,TX_Atascosa,7,Derived Variables
+TX_Pecos,TX_Guadalupe,5,Derived Variables
+TX_Red River,TX_Washington,8,Derived Variables
+TX_Red River,TX_Bastrop,6,Derived Variables
+TX_Red River,TX_Milam,5,Derived Variables
+TX_Red River,TX_Fayette,5,Derived Variables
+TX_Robertson,AZ_Yuma,9,Derived Variables
+TX_Robertson,CA_Imperial,7,Derived Variables
+TX_Robertson,TX_Maverick,6,Derived Variables
+TX_San Saba,TX_Frio,12,Derived Variables
+TX_San Saba,TX_Maverick,11,Derived Variables
+TX_Smith,TX_Frio,10,Derived Variables
+TX_Smith,TX_Maverick,10,Derived Variables
+TX_Terry,TX_Bosque,7,Derived Variables
+TX_Travis,AZ_Yuma,11,Derived Variables
+TX_Travis,CA_Imperial,8,Derived Variables
+TX_Travis,TX_Maverick,5,Derived Variables
+TX_Uvalde,AZ_Yuma,13,Derived Variables
+TX_Uvalde,CA_Imperial,12,Derived Variables
+TX_Van Zandt,TX_Frio,8,Derived Variables
+TX_Van Zandt,TX_Bastrop,6,Derived Variables
+TX_Van Zandt,TX_Maverick,6,Derived Variables
+TX_Van Zandt,AZ_Pinal,5,Derived Variables
+TX_Van Zandt,TX_Fayette,5,Derived Variables
+TX_Waller,AZ_Yuma,11,Derived Variables
+TX_Waller,CA_Imperial,9,Derived Variables
+TX_Waller,TX_Maverick,5,Derived Variables
+TX_Waller,AZ_Maricopa,5,Derived Variables
+TX_Washington,AZ_Yuma,10,Derived Variables
+TX_Washington,CA_Imperial,8,Derived Variables
+TX_Washington,AZ_Maricopa,7,Derived Variables
+TX_Washington,TX_Maverick,6,Derived Variables
+TX_Wharton,AZ_Yuma,15,Derived Variables
+TX_Wharton,CA_Imperial,13,Derived Variables
+TX_Williamson,AZ_Maricopa,8,Derived Variables
+TX_Williamson,TX_Maverick,7,Derived Variables
+TX_Williamson,AZ_Yuma,5,Derived Variables
+TX_Wilson,AZ_Yuma,14,Derived Variables
+TX_Wilson,CA_Imperial,12,Derived Variables
+TX_Wise,TX_Maverick,9,Derived Variables
+TX_Wise,TX_Frio,9,Derived Variables
+TX_Wise,TX_Atascosa,7,Derived Variables
+TX_Wise,TX_Milam,6,Derived Variables
+TX_Wise,TX_Zavala,5,Derived Variables
+TX_Wood,TX_Frio,7,Derived Variables
+TX_Wood,TX_Milam,6,Derived Variables
+TX_Wood,TX_Bastrop,6,Derived Variables
+TX_Wood,TX_Maverick,5,Derived Variables
+TX_Zavala,CA_Imperial,15,Derived Variables
+TX_Zavala,AZ_Yuma,15,Derived Variables
+UT_Box Elder,ID_Payette,12,Derived Variables
+UT_Box Elder,ID_Canyon,12,Derived Variables
+UT_Box Elder,UT_Davis,11,Derived Variables
+UT_Box Elder,ID_Ada,6,Derived Variables
+UT_Davis,UT_Davis,7,Derived Variables
+UT_Davis,WA_Benton,7,Derived Variables
+UT_Davis,WA_Walla Walla,5,Derived Variables
+UT_Davis,WA_Franklin,5,Derived Variables
+UT_Utah,ID_Canyon,7,Derived Variables
+UT_Utah,ID_Payette,6,Derived Variables
+UT_Weber,UT_Davis,9,Derived Variables
+UT_Weber,WA_Benton,8,Derived Variables
+UT_Weber,WA_Franklin,7,Derived Variables
+UT_Weber,WA_Walla Walla,6,Derived Variables
+UT_Weber,OR_Morrow,5,Derived Variables
+VA_Hanover,OK_Carter,6,Derived Variables
+VA_Hanover,TX_Grayson,6,Derived Variables
+VA_Hanover,OK_Marshall,5,Derived Variables
+VA_Westmoreland,AR_Jefferson,8,Derived Variables
+VT_Addison,OR_Morrow,6,Derived Variables
+VT_Addison,WA_Benton,5,Derived Variables
+WA_Adams,UT_Davis,17,Derived Variables
+WA_Adams,WA_Walla Walla,15,Derived Variables
+WA_Adams,WA_Benton,15,Derived Variables
+WA_Benton,WA_Walla Walla,7,Derived Variables
+WA_Benton,WA_Benton,7,Derived Variables
+WA_Chelan,WA_Franklin,11,Derived Variables
+WA_Chelan,UT_Davis,10,Derived Variables
+WA_Chelan,WA_Walla Walla,9,Derived Variables
+WA_Chelan,WA_Benton,6,Derived Variables
+WA_Chelan,OR_Morrow,6,Derived Variables
+WA_Clark,OR_Douglas,9,Derived Variables
+WA_Clark,OR_Yamhill,8,Derived Variables
+WA_Clark,OR_Multnomah,7,Derived Variables
+WA_Clark,CA_Alameda,7,Derived Variables
+WA_Clark,CA_El Dorado,7,Derived Variables
+WA_Clark,OR_Polk,6,Derived Variables
+WA_Clark,CA_Santa Clara,6,Derived Variables
+WA_Clark,CA_San Benito,6,Derived Variables
+WA_Clark,OR_Linn,5,Derived Variables
+WA_Clark,OR_Clackamas,5,Derived Variables
+WA_Cowlitz,OR_Multnomah,15,Derived Variables
+WA_Cowlitz,OR_Clackamas,14,Derived Variables
+WA_Cowlitz,OR_Marion,10,Derived Variables
+WA_Cowlitz,OR_Yamhill,9,Derived Variables
+WA_Cowlitz,OR_Linn,7,Derived Variables
+WA_Franklin,WA_Walla Walla,7,Derived Variables
+WA_Franklin,WA_Benton,7,Derived Variables
+WA_Franklin,UT_Davis,7,Derived Variables
+WA_Franklin,OR_Josephine,5,Derived Variables
+WA_Grant,UT_Davis,17,Derived Variables
+WA_Grant,WA_Walla Walla,15,Derived Variables
+WA_Grant,OR_Morrow,11,Derived Variables
+WA_Grant,WA_Franklin,11,Derived Variables
+WA_Grays Harbor,OR_Multnomah,17,Derived Variables
+WA_Grays Harbor,OR_Clackamas,16,Derived Variables
+WA_Grays Harbor,OR_Marion,14,Derived Variables
+WA_Grays Harbor,OR_Linn,7,Derived Variables
+WA_Grays Harbor,CA_Sonoma,7,Derived Variables
+WA_King,OR_Multnomah,11,Derived Variables
+WA_King,OR_Clackamas,11,Derived Variables
+WA_King,OR_Marion,7,Derived Variables
+WA_King,WA_Grays Harbor,5,Derived Variables
+WA_King,OR_Linn,5,Derived Variables
+WA_King,OR_Lane,5,Derived Variables
+WA_Kittitas,UT_Davis,8,Derived Variables
+WA_Kittitas,WA_Franklin,8,Derived Variables
+WA_Kittitas,WA_Adams,6,Derived Variables
+WA_Kittitas,ID_Canyon,6,Derived Variables
+WA_Kittitas,WA_Walla Walla,5,Derived Variables
+WA_Kittitas,WA_Benton,5,Derived Variables
+WA_Lewis,OR_Clackamas,12,Derived Variables
+WA_Lewis,OR_Multnomah,12,Derived Variables
+WA_Lewis,OR_Yamhill,9,Derived Variables
+WA_Lewis,OR_Marion,7,Derived Variables
+WA_Lewis,CA_Sonoma,7,Derived Variables
+WA_Lewis,OR_Linn,6,Derived Variables
+WA_Lewis,CA_Alameda,6,Derived Variables
+WA_Lewis,CA_Santa Clara,5,Derived Variables
+WA_Lewis,CA_El Dorado,5,Derived Variables
+WA_Lincoln,UT_Davis,11,Derived Variables
+WA_Lincoln,WA_Franklin,10,Derived Variables
+WA_Lincoln,WA_Walla Walla,10,Derived Variables
+WA_Lincoln,WA_Benton,7,Derived Variables
+WA_Lincoln,OR_Morrow,6,Derived Variables
+WA_Okanogan,UT_Davis,10,Derived Variables
+WA_Okanogan,WA_Franklin,9,Derived Variables
+WA_Okanogan,WA_Walla Walla,8,Derived Variables
+WA_Okanogan,OR_Morrow,6,Derived Variables
+WA_Okanogan,WA_Benton,6,Derived Variables
+WA_Okanogan,WA_Adams,5,Derived Variables
+WA_Okanogan,WA_Grant,5,Derived Variables
+WA_Pacific,OR_Curry,15,Derived Variables
+WA_Pacific,WA_Grays Harbor,7,Derived Variables
+WA_Pacific,OR_Coos,6,Derived Variables
+WA_Pacific,OR_Multnomah,6,Derived Variables
+WA_Pierce,OR_Multnomah,8,Derived Variables
+WA_Pierce,OR_Clackamas,8,Derived Variables
+WA_Pierce,WA_Snohomish,7,Derived Variables
+WA_Pierce,WA_Grays Harbor,7,Derived Variables
+WA_Pierce,WA_King,7,Derived Variables
+WA_Pierce,WA_Whatcom,6,Derived Variables
+WA_Pierce,OR_Marion,6,Derived Variables
+WA_Pierce,OR_Lane,6,Derived Variables
+WA_Pierce,OR_Linn,5,Derived Variables
+WA_Skagit,OR_Curry,9,Derived Variables
+WA_Skagit,WA_Skagit,5,Derived Variables
+WA_Spokane,WA_Walla Walla,10,Derived Variables
+WA_Walla Walla,WA_Walla Walla,7,Derived Variables
+WA_Walla Walla,WA_Benton,7,Derived Variables
+WA_Walla Walla,UT_Davis,5,Derived Variables
+WA_Walla Walla,OR_Josephine,5,Derived Variables
+WA_Walla Walla,CA_Calaveras,5,Derived Variables
+WA_Whatcom,OR_Multnomah,8,Derived Variables
+WA_Whatcom,OR_Clackamas,6,Derived Variables
+WA_Yakima,UT_Davis,11,Derived Variables
+WA_Yakima,WA_Benton,10,Derived Variables
+WA_Yakima,WA_Walla Walla,10,Derived Variables
+WA_Yakima,OR_Morrow,7,Derived Variables
+WI_Adams,UT_Davis,7,Derived Variables
+WI_Calumet,UT_Davis,10,Derived Variables
+WI_Calumet,OR_Morrow,9,Derived Variables
+WI_Calumet,WA_Benton,9,Derived Variables
+WI_Calumet,OR_Josephine,8,Derived Variables
+WI_Calumet,WA_Franklin,7,Derived Variables
+WI_Columbia,UT_Davis,5,Derived Variables
+WI_Dodge,UT_Davis,7,Derived Variables
+WI_Door,OR_Jackson,7,Derived Variables
+WI_Door,CA_El Dorado,7,Derived Variables
+WI_Door,OR_Josephine,6,Derived Variables
+WI_Dunn,ID_Canyon,5,Derived Variables
+WI_Green Lake,UT_Davis,7,Derived Variables
+WI_Green Lake,WA_Benton,5,Derived Variables
+WI_Jackson,ID_Canyon,6,Derived Variables
+WI_Kenosha,UT_Davis,5,Derived Variables
+WI_Kewaunee,OR_Josephine,10,Derived Variables
+WI_Kewaunee,OR_Jackson,7,Derived Variables
+WI_Manitowoc,OR_Josephine,11,Derived Variables
+WI_Manitowoc,OR_Jackson,7,Derived Variables
+WI_Marinette,WA_Yakima,7,Derived Variables
+WI_Marinette,WA_Franklin,7,Derived Variables
+WI_Marinette,UT_Weber,6,Derived Variables
+WI_Marinette,WA_Grant,5,Derived Variables
+WI_Marquette,UT_Davis,5,Derived Variables
+WI_Monroe,ID_Canyon,5,Derived Variables
+WI_Oconto,OR_Morrow,7,Derived Variables
+WI_Oconto,WA_Franklin,7,Derived Variables
+WI_Oconto,UT_Weber,6,Derived Variables
+WI_Oconto,WA_Benton,6,Derived Variables
+WI_Oconto,WA_Yakima,5,Derived Variables
+WI_Oconto,WA_Grant,5,Derived Variables
+WI_Oconto,UT_Davis,5,Derived Variables
+WI_Outagamie,UT_Davis,9,Derived Variables
+WI_Outagamie,WA_Benton,9,Derived Variables
+WI_Outagamie,OR_Morrow,9,Derived Variables
+WI_Outagamie,WA_Franklin,7,Derived Variables
+WI_Outagamie,OR_Josephine,6,Derived Variables
+WI_Polk,ID_Canyon,5,Derived Variables
+WI_Portage,UT_Davis,6,Derived Variables
+WI_Portage,WA_Yakima,5,Derived Variables
+WI_Portage,UT_Weber,5,Derived Variables
+WI_Portage,ID_Canyon,5,Derived Variables
+WI_Portage,WA_Benton,5,Derived Variables
+WI_Portage,WA_Franklin,5,Derived Variables
+WI_Portage,OR_Morrow,5,Derived Variables
+WI_Sheboygan,OR_Josephine,9,Derived Variables
+WI_Sheboygan,WA_Benton,9,Derived Variables
+WI_Sheboygan,OR_Jackson,6,Derived Variables
+WI_Sheboygan,OR_Morrow,6,Derived Variables
+WI_Sheboygan,UT_Davis,6,Derived Variables
+WI_Walworth,UT_Davis,5,Derived Variables
+WI_Washington,UT_Davis,10,Derived Variables
+WI_Washington,OR_Jackson,7,Derived Variables
+WI_Washington,WA_Franklin,6,Derived Variables
+WI_Washington,OR_Morrow,6,Derived Variables
+WI_Washington,WA_Benton,6,Derived Variables
+WI_Washington,OR_Josephine,5,Derived Variables
+WI_Waupaca,UT_Davis,9,Derived Variables
+WI_Waupaca,WA_Franklin,7,Derived Variables
+WI_Waupaca,WA_Benton,7,Derived Variables
+WI_Waupaca,OR_Morrow,7,Derived Variables
+WI_Waushara,UT_Davis,8,Derived Variables
+WI_Waushara,WA_Franklin,7,Derived Variables
+WI_Waushara,OR_Morrow,5,Derived Variables
+WI_Wood,ID_Canyon,7,Derived Variables
+WI_Wood,UT_Davis,6,Derived Variables
+WI_Wood,WA_Benton,5,Derived Variables
+WV_Berkeley,MO_Dunklin,6,Derived Variables
